@@ -1,0 +1,499 @@
+,track_id,artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,loudness,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,track_genre
+64887,7qSkQJ5yeqXdJZjvVBf45e,Mel Tormé,Holidays Are Coming,"The Christmas Song - Live At The Crescendo Club, Hollywood, CA / December 15, 1954",0,185266,False,0.413,0.0417,-19.916,0.035,0.948,0.0,0.12,0.225,100.098,1,jazz
+16195,0G8hno6jivjQvhaoJfR5qK,Pyotr Ilyich Tchaikovsky;Berliner Philharmoniker;Mstislav Rostropovich,Weihnachten Klassik 2022,"The Nutcracker (Suite), Op. 71a, TH. 35: IIf. Dance of the Reed-Pipes (Mirlitons)",0,155000,False,0.45,0.0485,-31.079,0.038,0.972,0.911,0.172,0.316,126.978,4,classical
+16087,1gHJ8Y9xdcOPfg5tyBIL40,Johann Sebastian Bach;Lang Lang,Weihnachten Klassik 2022,"Christmas Oratorio, BWV 248: X. Sinfonia (Arr. Anna Saradjian)",0,157400,False,0.499,0.059,-20.969,0.0546,0.995,0.89,0.0889,0.171,82.472,4,classical
+64259,3wVPBznr1LFn4VCQUkoT5v,Nat King Cole,Rockin' Around The Christmas Tree 2022,The Christmas Song (Merry Christmas To You),0,192373,False,0.525,0.0623,-16.836,0.05,0.994,0.157,0.106,0.17,91.205,3,jazz
+62085,68oZTWrQDccWDf4y9UpBXk,Norah Jones,Slow Christmas Songs 2022,It's Not Christmas 'Til You Come Home - Recorded At Spotify Studios NYC,0,192420,False,0.473,0.068,-20.033,0.0315,0.892,0.00216,0.105,0.262,93.777,3,j-pop
+64049,01yZpKoKFXSzX2vQNYgvgy,Norah Jones,Alternative Christmas 2022,It's Not Christmas 'Til You Come Home - Recorded At Spotify Studios NYC,0,192420,False,0.473,0.068,-20.033,0.0315,0.892,0.00216,0.105,0.262,93.777,3,jazz
+103316,5LTYshvqiHa2jRrbVAM5cc,Aloe Blacc,Weihnachtspop 2022,The Christmas Song,0,196853,False,0.57,0.0696,-13.124,0.0504,0.888,0.0,0.11,0.182,139.348,4,soul
+62197,4hC2YJ7vTBMwr2qIIaEvMF,Gregory Porter,Christmas Day Chill,The Christmas Song,0,224906,False,0.321,0.09,-21.296,0.0321,0.838,0.00266,0.0998,0.157,65.825,4,j-pop
+64536,5JhfwQbFvnlST21evT6Qle,Gregory Porter,Calm Christmas,The Christmas Song,0,224906,False,0.321,0.09,-21.296,0.0321,0.838,0.00266,0.0998,0.157,65.825,4,jazz
+64940,4PSjU3BTM5T7nNkDBxoCTs,Sammy Davis Jr.,Perfect Christmas Hits,The Christmas Song (Chestnuts Roasting on an Open Fire),0,205066,False,0.297,0.0915,-20.631,0.0325,0.94,6.85e-06,0.32,0.201,82.484,1,jazz
+64739,1goBH4a2czNV7PTlswLWfN,Vince Guaraldi Trio,Christmas Faves 2022,Christmas Time Is Here - Instrumental,0,366213,False,0.418,0.116,-18.397,0.0331,0.966,0.648,0.138,0.0861,74.923,3,jazz
+106522,5mBjW3zupYQm5MbjzxXM3I,Carola,JULPYNTA,Vintersång,0,232226,False,0.226,0.12,-15.102,0.0388,0.973,0.0003,0.0885,0.13,78.39,4,swedish
+19533,7ea2evBOZWG4277pXVuBhS,Ingrid Andress,Perfect Christmas Hits,Christmas Always Finds Me,0,200662,False,0.386,0.124,-9.736,0.0306,0.928,0.0,0.116,0.46,94.166,3,country
+64744,6P94tFXxkdwPevLUI64aIM,Vince Guaraldi Trio,Xmas Classics 2022,Christmas Time Is Here - Vocal,0,166440,False,0.375,0.139,-19.789,0.0324,0.977,8.61e-06,0.0984,0.0878,75.993,3,jazz
+95,15BFn2VmEtonsXfNL1lUmy,The Civil Wars,Chill Christmas Dinner,I Heard The Bells On Christmas Day,0,154440,False,0.492,0.145,-14.504,0.0422,0.872,9.68e-06,0.107,0.218,90.078,4,acoustic
+34794,1uDCw6LVMOmbZ6zRliNcNX,The Civil Wars,Christmas Country Songs 2022,I Heard The Bells On Christmas Day,0,154440,False,0.492,0.145,-14.504,0.0422,0.872,9.68e-06,0.107,0.218,90.078,4,folk
+64797,4VtRHHg0EOISSxDZzx2WCJ,Nat King Cole Trio,Home At Christmas,All I Want For Christmas (Is My Two Front Teeth),0,151333,False,0.771,0.158,-10.374,0.0621,0.895,0.0,0.144,0.504,130.072,4,jazz
+106032,0ECr8qukqLKU14g3eRNX54,ABBA,Holidays Are Coming,Little Things,0,188320,False,0.647,0.165,-16.328,0.0315,0.894,0.00187,0.116,0.59,75.978,4,swedish
+106021,3WGUmg9EePIgNlJvyAzPva,ABBA,World's Best Christmas Playlist,Little Things,0,188320,False,0.647,0.165,-16.328,0.0315,0.894,0.00187,0.116,0.59,75.978,4,swedish
+64612,7B9Tz3NNVRSQBrrWmzkwVN,Peggy Lee,Slow Christmas Songs 2022,The Christmas Waltz,0,173106,False,0.25,0.168,-16.789,0.0329,0.822,0.000135,0.136,0.141,107.269,3,jazz
+103825,1GZj9r3vJ91roOZ0oYJrW5,Peggy Lee,Weihnachtssongs,The Christmas Waltz,0,173106,False,0.25,0.168,-16.789,0.0329,0.822,0.000135,0.136,0.141,107.269,3,soul
+19504,52f5RgyEM4cfaPMeh1VbWo,Ingrid Andress,New Country Hits,Blue,0,201541,False,0.488,0.175,-9.5,0.0491,0.952,1.01e-06,0.105,0.201,117.291,4,country
+81832,4nFXgBdbnvwxaSHKFLimML,Sam Smith,JULMYS,Have Yourself A Merry Little Christmas,0,170964,False,0.438,0.178,-9.402,0.0414,0.957,1.1e-06,0.316,0.344,75.25,1,pop
+81843,2bygWMs35RbVPihSUVr0lA,Sam Smith,Christmas Best Hits 2022,Have Yourself A Merry Little Christmas,0,170964,False,0.438,0.178,-9.402,0.0414,0.957,1.1e-06,0.316,0.344,75.25,1,pop
+87295,3SqWXTR40ETna3e4EHYTHq,The Drifters,Christmas Music - Holiday Hits,White Christmas,0,158533,False,0.578,0.182,-10.424,0.0444,0.825,5e-06,0.144,0.477,127.363,4,r-n-b
+90092,1OPoUUFSLgXXsFcjP1SRIS,The Drifters,Perfect Christmas Hits,White Christmas,0,158533,False,0.578,0.182,-10.424,0.0444,0.825,5e-06,0.144,0.477,127.363,4,rock-n-roll
+92146,1qtOncyVGwrltAsTWFuW6m,The Drifters,Holly Jolly Christmas,White Christmas,0,158533,False,0.578,0.182,-10.424,0.0444,0.825,5e-06,0.144,0.477,127.363,4,rockabilly
+103792,3SqWXTR40ETna3e4EHYTHq,The Drifters,Christmas Music - Holiday Hits,White Christmas,0,158533,False,0.578,0.182,-10.424,0.0444,0.825,5e-06,0.144,0.477,127.363,4,soul
+19259,7GFvNSVGH1rwZ022nmehm7,Kacey Musgraves;Lana Del Rey,Alternative Christmas 2022,I'll Be Home For Christmas - From The Kacey Musgraves Christmas Show,0,132108,False,0.469,0.183,-15.414,0.0407,0.829,0.0,0.71,0.381,139.592,4,country
+19211,07KkcT3p4w8TzIPm1UpC0e,Kacey Musgraves;Lana Del Rey,Holiday Tunes 2022,I'll Be Home For Christmas - From The Kacey Musgraves Christmas Show,0,132108,False,0.469,0.183,-15.414,0.0407,0.829,0.0,0.71,0.381,139.592,4,country
+19028,7M9ZOPynXtdsAYhDCeeYnN,Zach Bryan,Single Saturday Night - Country Songs,Something in the Orange,0,228013,False,0.369,0.192,-12.151,0.04,0.555,8.35e-06,0.0954,0.148,175.212,3,country
+64379,1xk2BZet7lBVxc8tFwj9QZ,Dean Martin,Santa Claus Is Coming To Town,"Baby, It's Cold Outside",0,143733,False,0.439,0.196,-16.093,0.0601,0.88,0.0,0.0513,0.525,129.581,4,jazz
+64402,7J3pqJ4DlGcm1aGku5Qj4G,Dean Martin,Christmas 2022,"Baby, It's Cold Outside",0,143733,False,0.439,0.196,-16.093,0.0601,0.88,0.0,0.0513,0.525,129.581,4,jazz
+7036,1PsqGUXy4eFdOKOmafn2ea,The Avett Brothers,Chill Christmas Dinner,Winter In My Heart,0,294960,False,0.409,0.198,-10.832,0.0293,0.751,0.000712,0.082,0.14,132.782,4,bluegrass
+34543,6vXQ12lw0BOY8ZAwT80wJy,The Avett Brothers,sadsadchristmas,Winter In My Heart,0,294960,False,0.409,0.198,-10.832,0.0293,0.751,0.000712,0.082,0.14,132.782,4,folk
+87196,6rmTI4qrd6b2iJddcCJy3A,The Avett Brothers,Christmas Vibes But Not Christmas Songs,Winter In My Heart,0,294960,False,0.409,0.198,-10.832,0.0293,0.751,0.000712,0.082,0.14,132.782,4,r-n-b
+64477,0nPF9ui556Ptd0ZNstQerM,Dean Martin,pov: you saw mommy kissing santa claus,Rudolph The Red-Nosed Reindeer,0,135760,False,0.478,0.201,-16.79,0.0332,0.919,0.0,0.0854,0.857,136.47,4,jazz
+62091,1QSituq8TP7S5aJvdzwYcP,Norah Jones,Christmas Vibes But Not Christmas Songs,Wintertime,0,228234,False,0.525,0.205,-12.519,0.0457,0.84,0.0213,0.114,0.207,183.468,4,j-pop
+64090,1QSituq8TP7S5aJvdzwYcP,Norah Jones,Christmas Vibes But Not Christmas Songs,Wintertime,0,228234,False,0.525,0.205,-12.519,0.0457,0.84,0.0213,0.114,0.207,183.468,4,jazz
+64356,2QnNRiKhVhXfkVRnHCqO3B,Nat King Cole,All I want For Christmas Is Music,The Christmas Song (Merry Christmas To You),0,192160,False,0.32,0.21,-15.231,0.0345,0.92,8.01e-05,0.138,0.208,73.196,5,jazz
+64323,3FRPqVwG14wKc0fAb8Nj3O,Nat King Cole,Home For Christmas 2022,The Christmas Song (Merry Christmas To You),0,192160,False,0.32,0.21,-15.231,0.0345,0.92,8.01e-05,0.138,0.208,73.196,5,jazz
+64424,3llXamv8O331e5CAjNTu5f,Dean Martin,GOD JUL,"Let It Snow, Let It Snow, Let It Snow - Remastered",0,121026,False,0.446,0.214,-15.215,0.0326,0.885,1.46e-06,0.052,0.741,133.436,4,jazz
+64268,5xGSLYFTmGKmFXN1pYm9q6,Nat King Cole,Christmas Best Hits 2022,O Tannenbaum - Remastered 1999,0,180200,False,0.25,0.228,-14.186,0.0364,0.811,0.000166,0.199,0.198,90.001,4,jazz
+64301,4Chn8Dhk82kTF9kyb0yYCV,Nat King Cole,Weihnachten Playlist,O Tannenbaum - Remastered 1999,0,180200,False,0.25,0.228,-14.186,0.0364,0.811,0.000166,0.199,0.198,90.001,4,jazz
+19387,5bsyeHw6sQja0n3oUiDfMY,Kenny Rogers,Holly Jolly Christmas,I'll Be Home for Christmas,0,164906,False,0.437,0.229,-10.99,0.0296,0.729,9.06e-05,0.129,0.127,61.786,4,country
+107094,1L4VhHYJxfxCfnaPpd9gYI,Frankie Goes To Hollywood,Jingle Bell Rock 2022,The Power Of Love,0,328864,False,0.465,0.23,-13.791,0.0325,0.349,2.85e-06,0.539,0.114,123.102,4,synth-pop
+103685,7EhzTxJLeLTlk3MQIEisWD,Olivia Dean,Christmas Dinner 2022,Merry Christmas Everyone - For Nest Audio Sessions,0,154133,False,0.592,0.249,-8.86,0.0402,0.834,0.00125,0.113,0.155,90.521,4,soul
+106363,2drsKS2XyPOn7diNNEvenO,LOVA,Weihnachtspop 2022,Happy New Year,0,184828,False,0.625,0.274,-8.593,0.0281,0.834,0.0,0.11,0.081,134.9,4,swedish
+8059,0XOoWlEiKzyF5VS4oh3Yb6,Ella Fitzgerald,pov: you are walking in a winter wonderland,Sleigh Ride,0,175986,False,0.593,0.287,-12.472,0.0469,0.764,0.0,0.153,0.639,77.117,4,blues
+8011,0uZ14vmYf9O5LirYjN84GL,Ella Fitzgerald,pov: you hear the bells jingle,Sleigh Ride,0,175986,False,0.593,0.287,-12.472,0.0469,0.764,0.0,0.153,0.639,77.117,4,blues
+8021,2yQJT5fopKSAdJB2aaLgwr,Ella Fitzgerald,World's Best Christmas Playlist,Sleigh Ride,0,175986,False,0.593,0.287,-12.472,0.0469,0.764,0.0,0.153,0.639,77.117,4,blues
+64243,7nSM5Q806uLYcJvWRCIRg2,Ella Fitzgerald,Weihnachtssongs,Sleigh Ride,0,175986,False,0.593,0.287,-12.472,0.0469,0.764,0.0,0.153,0.639,77.117,4,jazz
+64199,4FcflXjkAiJ2pV02GyIvsG,Ella Fitzgerald,Best Christmas Music 2022,Sleigh Ride,0,175986,False,0.593,0.287,-12.472,0.0469,0.764,0.0,0.153,0.639,77.117,4,jazz
+64239,1IgtHMtJcoGSE5gHqC1diy,Ella Fitzgerald,Weihnachten Playlist,Sleigh Ride,0,175986,False,0.593,0.287,-12.472,0.0469,0.764,0.0,0.153,0.639,77.117,4,jazz
+8019,5h2YLD9MLviHF25NNYYi9j,Otis Redding,Christmas Time,Merry Christmas Baby,0,155560,False,0.71,0.291,-14.132,0.0338,0.35,0.0,0.128,0.856,101.517,4,blues
+103234,1ygKuPiMlPKKonNecBWlg0,Otis Redding,Holly Jolly Christmas,Merry Christmas Baby,0,155560,False,0.71,0.291,-14.132,0.0338,0.35,0.0,0.128,0.856,101.517,4,soul
+91918,2BJpaCGbSfZeC6AEK8Zx8X,Christina Perri,Christmas Time,Merry Christmas Darling,0,200240,False,0.544,0.291,-13.898,0.0274,0.714,0.000288,0.0963,0.168,75.945,4,rock
+64669,3VV5d66lAtFIusefvr1ssz,Vince Guaraldi Trio,Happy Christmas Instrumentals,Skating,0,145640,False,0.473,0.297,-17.103,0.0321,0.75,0.535,0.129,0.551,130.342,4,jazz
+64429,306AhQP6UPbAZrv9s9R54W,Dean Martin,Weihnachten Musik,"Baby, It's Cold Outside - Remastered 2004",0,143026,False,0.499,0.304,-11.543,0.0632,0.81,0.0,0.0546,0.521,129.321,4,jazz
+34886,01ACdIbLskndpj7q5pMfh4,Andrew Bird,Chill Christmas Dinner,Christmas In April,0,211346,False,0.53,0.304,-10.509,0.0342,0.825,0.0182,0.145,0.301,90.495,3,folk
+87540,7wBB0QYD0AYbhA0Nyjwxqy,Andrew Bird,Acoustic Christmas Campfire,Christmas In April,0,211346,False,0.53,0.304,-10.509,0.0342,0.825,0.0182,0.145,0.301,90.495,3,r-n-b
+28,5QAMZTM5cmLg3fHX9ZbTZi,Jason Mraz,Christmas Time,Winter Wonderland,0,131760,False,0.62,0.309,-9.209,0.0495,0.788,0.0,0.146,0.664,145.363,4,acoustic
+8069,2E1sUwtH4AANynciTbL36h,Ella Fitzgerald,JULMUSIK,Rudolph The Red-Nosed Reindeer,0,171773,False,0.596,0.315,-9.175,0.0428,0.961,0.0,0.258,0.64,119.935,4,blues
+8195,2G8eyoZQjaBakG9DFk5NSw,Ella Fitzgerald,Weihnachten Playlist,Rudolph The Red-Nosed Reindeer,0,171773,False,0.596,0.315,-9.175,0.0428,0.961,0.0,0.258,0.64,119.935,4,blues
+64230,3EzO5J4BLoEElQzuAt0jyh,Ella Fitzgerald,Christmas Soul Classics,Rudolph The Red-Nosed Reindeer,0,171773,False,0.596,0.315,-9.175,0.0428,0.961,0.0,0.258,0.64,119.935,4,jazz
+64233,2G8eyoZQjaBakG9DFk5NSw,Ella Fitzgerald,Weihnachten Playlist,Rudolph The Red-Nosed Reindeer,0,171773,False,0.596,0.315,-9.175,0.0428,0.961,0.0,0.258,0.64,119.935,4,jazz
+91833,63m4kjPpyOlrprRJXSZjPC,Annie Lennox,Christmas Songs 2022,Angels From The Realms of Glory,0,240146,False,0.523,0.322,-8.957,0.0285,0.535,0.0,0.132,0.3,126.002,4,rock
+99196,21excOPd45gzWN8zCt8Vhw,Annie Lennox,Christmas Best Hits 2022,Angels From The Realms of Glory,0,240146,False,0.523,0.322,-8.957,0.0285,0.535,0.0,0.132,0.3,126.002,4,singer-songwriter
+102199,6X16lGke7rTFXp8nlABGS1,Annie Lennox,Weihnachtslieder 2022,Angels From The Realms of Glory,0,240146,False,0.523,0.322,-8.957,0.0285,0.535,0.0,0.132,0.3,126.002,4,songwriter
+64382,19UYv6UJvgjw2kPXcno6N9,Dean Martin,Santa Claus Is Coming To Town,Let It Snow! Let It Snow! Let It Snow!,0,115240,False,0.484,0.332,-10.312,0.037,0.787,0.0,0.373,0.683,134.999,4,jazz
+64467,2XSYVfnio65LuIcWXG6aiq,Dean Martin,All I want For Christmas Is Music,Let It Snow! Let It Snow! Let It Snow!,0,115240,False,0.484,0.332,-10.312,0.037,0.787,0.0,0.373,0.683,134.999,4,jazz
+64483,1qG5YcviyX2U4vQti2QDQH,Dean Martin,pov: you rock around the christmas tree,Let It Snow! Let It Snow! Let It Snow!,0,115240,False,0.484,0.332,-10.312,0.037,0.787,0.0,0.373,0.683,134.999,4,jazz
+19421,0Gqt7TMY8pI89qfHTKLNrZ,Faith Hill,JULPYNTA,"Where Are You Christmas - From ""Dr. Seuss' How The Grinch Stole Christmas"" Soundtrack",0,247040,False,0.373,0.333,-9.876,0.0303,0.59,0.0,0.121,0.0815,110.241,4,country
+64297,264PIvfCX9wSiYs7wOk3aY,Nat King Cole,Xmas Classics 2022,Joy To The World - Remastered 1999,0,84986,False,0.553,0.337,-10.334,0.0303,0.818,0.0,0.113,0.664,102.213,4,jazz
+64296,6QUrYDqnSpdEuTIsdv0BiR,Nat King Cole,Santa Claus Is Coming To Town,Joy To The World - Remastered 1999,0,84986,False,0.553,0.337,-10.334,0.0303,0.818,0.0,0.113,0.664,102.213,4,jazz
+37288,6YX6ZHbeGnt3wqhcas8YOx,The Temptations,Best Christmas Playlist Ever 2022,Silent Night,0,144480,False,0.277,0.344,-11.713,0.0264,0.215,8.6e-06,0.185,0.241,89.643,3,funk
+103277,0ybDYDwTq51aP5pSTtbep1,The Temptations,JULMYS,Silent Night,0,144480,False,0.277,0.344,-11.713,0.0264,0.215,8.6e-06,0.185,0.241,89.643,3,soul
+34846,0b9fULR24FUxNnT4co5GWA,The Pogues;Kirsty MacColl,Christmas Time,Fairytale of New York (Edit) - Radio Edit,0,275896,False,0.38,0.346,-14.313,0.0417,0.648,0.000139,0.0511,0.358,117.916,3,folk
+86298,4I2O6pV4gNBw6iteh0UPU0,The Pogues;Kirsty MacColl,Merry Christmas,Fairytale of New York (Edit) - Radio Edit,0,275896,False,0.38,0.346,-14.313,0.0417,0.648,0.000139,0.0511,0.358,117.916,3,punk
+85245,2wZxzBlwt89epiawMTmDfM,The Pogues;Kirsty MacColl,Perfect Christmas Hits,Fairytale of New York (Edit) - Radio Edit,0,275896,False,0.38,0.346,-14.313,0.0417,0.648,0.000139,0.0511,0.358,117.916,3,punk-rock
+64024,2iYOGj0lCH9yWOlVNmh4Xu,Norah Jones,Christmas 2022,Christmas Don't Be Late,0,160293,False,0.464,0.356,-6.953,0.03,0.708,7.76e-05,0.108,0.265,66.377,4,jazz
+62049,2YJ7Y1oJO1O9w4qnxoJWmK,Norah Jones,Santa Claus Is Coming To Town,Christmas Don't Be Late,0,160293,False,0.497,0.374,-6.941,0.028,0.751,5.82e-05,0.118,0.235,66.785,4,j-pop
+64099,1WmrZqiaAztoRBpE2WfmYL,Norah Jones,pov: you have a holly jolly christmas,Christmas Don't Be Late,0,160293,False,0.497,0.374,-6.941,0.028,0.751,5.82e-05,0.118,0.235,66.785,4,jazz
+37108,2UHoZE4P1shj40Z3aQLi3I,Stevie Wonder,Christmas 2022,One Little Christmas Tree,0,161693,False,0.406,0.377,-11.717,0.0597,0.764,0.0,0.272,0.717,92.23,4,funk
+37133,5a3MuZQW1GMuLWBg7nwBkU,Stevie Wonder,All I Want For Christmas Is You,One Little Christmas Tree,0,161693,False,0.406,0.377,-11.717,0.0597,0.764,0.0,0.272,0.717,92.23,4,funk
+57230,3Onhy5g3mo0laU0Ny1PycZ,Stevie Wonder,Christmas Dinner 2022,One Little Christmas Tree,0,161693,False,0.406,0.377,-11.717,0.0597,0.764,0.0,0.272,0.717,92.23,4,indie
+103127,3Onhy5g3mo0laU0Ny1PycZ,Stevie Wonder,Christmas Dinner 2022,One Little Christmas Tree,0,161693,False,0.406,0.377,-11.717,0.0597,0.764,0.0,0.272,0.717,92.23,4,soul
+64324,2FsD3W3i69WGlexZPHlCT9,Nat King Cole;John Legend,Beste Weihnachtslieder,The Christmas Song (Chestnuts Roasting On An Open Fire),0,210026,False,0.226,0.382,-9.243,0.0288,0.845,0.0,0.111,0.165,81.943,4,jazz
+64270,0bXeqAJeMZ8U0WTYj0ieNI,Nat King Cole;John Legend,All I Want For Christmas Is You,The Christmas Song (Chestnuts Roasting On An Open Fire),0,210026,False,0.226,0.382,-9.243,0.0288,0.845,0.0,0.111,0.165,81.943,4,jazz
+31795,6YjErXVPAkQuqmBsHRWUxY,Kylie Minogue,Holly Jolly Christmas,Santa Baby,0,202546,False,0.685,0.391,-7.183,0.0435,0.744,0.0,0.142,0.443,87.101,4,electro
+64260,0LhVLUtEjDyku1hAM8EkO7,Nat King Cole,pov: you hear the bells jingle,Deck The Halls,0,69000,False,0.635,0.393,-10.889,0.0394,0.652,0.0,0.0845,0.97,107.172,4,jazz
+64330,64h9fBMUO8YmwW3cfWAI4Q,Nat King Cole,Beste Weihnachtslieder,Deck The Halls,0,69000,False,0.635,0.393,-10.889,0.0394,0.652,0.0,0.0845,0.97,107.172,4,jazz
+19728,5l3azn9twG7ayHoH0qAFGF,Tyler Braden,Burn Burn Burn - Hot Country Hits,Try Losing One,0,219640,False,0.455,0.4,-7.749,0.0293,0.546,0.0,0.0971,0.103,139.828,4,country
+92061,2urRTL3v5O8BBr8HWSSPos,Brenda Lee,Christmas Playlist 2022,A Marshmallow World,0,152160,False,0.73,0.406,-10.209,0.0306,0.444,0.0,0.304,0.895,121.097,4,rockabilly
+51583,0Nb0A0yuiYHiVyMyZm0Wh8,Kodak Black,The Hip Hop Collection,Super Gremlin,0,200547,True,0.825,0.414,-6.634,0.144,0.00265,0.0,0.357,0.106,72.993,4,hip-hop
+15047,3w1IGy0M8UmWfydMoD1RgE,Pink Sweat$,Coffee Chill,At My Worst,0,170344,False,0.813,0.415,-5.926,0.0349,0.777,0.0,0.131,0.667,91.921,4,chill
+103167,384txiSqJA9XFLWWLRBhO7,Pink Sweat$,Evergreen,At My Worst,0,170344,False,0.813,0.415,-5.926,0.0349,0.777,0.0,0.131,0.667,91.921,4,soul
+8590,089Kk8RlBojIz9H4qc0eUQ,Blind Faith,Biomutant Martial Combat The Ultimate Fantasy Playlist,Battle of Evermore,0,247866,False,0.534,0.416,-13.251,0.0309,0.572,1.87e-05,0.376,0.374,145.092,4,blues
+11441,089Kk8RlBojIz9H4qc0eUQ,Blind Faith,Biomutant Martial Combat The Ultimate Fantasy Playlist,Battle of Evermore,0,247866,False,0.534,0.416,-13.251,0.0309,0.572,1.87e-05,0.376,0.374,145.092,4,british
+51332,10l9RI8IHp1Z7b7dM3tMSv,Gunna;Future;Young Thug,Gaming Songs 2022: Hard Mode,Pushin P,0,136266,True,0.773,0.422,-4.572,0.187,0.00783,0.00693,0.129,0.488,77.502,1,hip-hop
+87687,7isAr2kWfTN2y1IiP0ndEJ,Cliff Richard,Christmas Time,Mistletoe and Wine,0,245333,False,0.498,0.432,-14.386,0.0345,0.688,0.0,0.136,0.365,135.015,3,r-n-b
+90188,1zhiY8SQbBksuS1O9WDfp2,Cliff Richard,Holly Jolly Christmas,Mistletoe and Wine,0,245333,False,0.498,0.432,-14.386,0.0345,0.688,0.0,0.136,0.365,135.015,3,rock-n-roll
+14282,5BZdsf4rMjK0NkcTKx6dIP,Alvin & The Chipmunks;David Seville,12 Days of Christmas 2022,The Chipmunk Song (Christmas Don't Be Late) - Remastered 1999,0,141026,False,0.609,0.434,-9.478,0.0353,0.711,1.17e-06,0.148,0.777,152.166,3,children
+103948,2WzOpYJhgIjcO7ASiJT8Xw,Percy Sledge,Holly Jolly Christmas,Christmas Wish - 2000 Remaster,0,160226,False,0.58,0.434,-11.04,0.0293,0.833,0.00162,0.135,0.399,78.612,4,soul
+99784,4e3QW45iOnnFUb8DjjXhE3,Madeline The Person,I'm Blue - Hits of 2022,MEAN!,0,143957,False,0.56,0.436,-8.761,0.491,0.918,0.0,0.093,0.402,117.907,4,singer-songwriter
+102786,4e3QW45iOnnFUb8DjjXhE3,Madeline The Person,I'm Blue - Hits of 2022,MEAN!,0,143957,False,0.56,0.436,-8.761,0.491,0.918,0.0,0.093,0.402,117.907,4,songwriter
+64367,1oh2tEnDufWrUSawyywVbI,Nat King Cole,pov: you bake cookies,Deck The Halls - Remastered 1999,0,68760,False,0.684,0.437,-10.522,0.0491,0.742,1.63e-05,0.224,0.964,107.607,4,jazz
+62232,0F5GuukYSgfX6ALuyrCgMH,Jamie Cullum,Holidays Are Coming,It's Christmas,0,194706,False,0.598,0.447,-7.932,0.0404,0.224,0.0,0.0704,0.365,123.855,4,j-pop
+64582,0HUQDPIFCHff0OQI2ZB9Bc,Jamie Cullum,Weihnachten Musik,It's Christmas,0,194706,False,0.598,0.447,-7.932,0.0404,0.224,0.0,0.0704,0.365,123.855,4,jazz
+37065,2wGd1xVvI38RqbzhlzswFC,Stevie Wonder,Rockin' Around The Christmas Tree 2022,The Little Drummer Boy,0,185453,False,0.523,0.448,-13.53,0.0593,0.442,0.0,0.111,0.351,134.511,4,funk
+57267,4YZFBZr3x5kEWRhKDU6WYz,Stevie Wonder,Classic Christmas 2022,The Little Drummer Boy,0,185453,False,0.523,0.448,-13.53,0.0593,0.442,0.0,0.111,0.351,134.511,4,indie
+103106,4YZFBZr3x5kEWRhKDU6WYz,Stevie Wonder,Classic Christmas 2022,The Little Drummer Boy,0,185453,False,0.523,0.448,-13.53,0.0593,0.442,0.0,0.111,0.351,134.511,4,soul
+64642,5Ztw19POZVio1lQE27ZLVO,Peggy Lee,Xmas Classics 2022,I Like A Sleighride (Jingle Bells),0,125613,False,0.758,0.451,-8.001,0.0375,0.75,0.0,0.0503,0.737,122.912,4,jazz
+103838,24YfxS060aKze1c2LosTxG,Peggy Lee,Classic Christmas 2022,I Like A Sleighride (Jingle Bells),0,125613,False,0.758,0.451,-8.001,0.0375,0.75,0.0,0.0503,0.737,122.912,4,soul
+8040,68zhLiVF3gEKnmgtfCCsen,Otis Redding,World's Best Christmas Playlist,"Merry Christmas, Baby [take 1] - Take 1",0,152933,False,0.746,0.458,-8.844,0.0312,0.0631,0.0,0.167,0.942,100.429,4,blues
+103243,5HfjKD2GdTKylx57dSemch,Otis Redding,All I want For Christmas Is Music,"Merry Christmas, Baby [take 1] - Take 1",0,152933,False,0.746,0.458,-8.844,0.0312,0.0631,0.0,0.167,0.942,100.429,4,soul
+84026,6gRNHsOFHyfAq5OJkzDT7M,The Beach Boys,pov: you have a holly jolly christmas,Frosty The Snowman - 1991 Remix,0,114551,False,0.426,0.473,-7.924,0.0335,0.353,0.0,0.0234,0.937,181.752,4,psych-rock
+91565,5J5IcNcokBBSrn5k7hqaot,The Beach Boys,Best Christmas Music 2022,Frosty The Snowman - 1991 Remix,0,114551,False,0.426,0.473,-7.924,0.0335,0.353,0.0,0.0234,0.937,181.752,4,rock
+94347,296fgp3QY6KNmEDScgcmOA,Fresco Trey;Einer Bankz,Her - All Rap,Enjoy It,0,127346,True,0.731,0.479,-6.438,0.0464,0.242,0.0,0.143,0.755,97.997,4,sad
+20523,0XLZqnVwuqsvl0WbZRStel,Burna Boy;Ed Sheeran,Hit After Hit,For My Hand,0,159123,False,0.87,0.479,-7.779,0.165,0.161,0.000157,0.209,0.717,104.059,4,dance
+21011,0YtYAaCp626cLIDyjB5bcS,Burna Boy;Ed Sheeran,New Arrivals,For My Hand,0,159123,False,0.87,0.479,-7.779,0.165,0.161,0.000157,0.209,0.717,104.059,4,dancehall
+51871,13VcHnE3q5TRU5ig2FcbOP,Burna Boy;Ed Sheeran,"#Multiverse, If the Multiverse Is Real",For My Hand,0,159123,False,0.87,0.479,-7.779,0.165,0.161,0.000157,0.209,0.717,104.059,4,hip-hop
+19980,167w1B4J7ntKYx7OlZNsI4,Avery Anna,Hideaway - New Boots,Narcissist,0,154026,False,0.322,0.48,-5.989,0.0492,0.746,0.0,0.113,0.304,73.476,4,country
+103799,3v3JmQWfgJnBjrNu9Amy0a,The Staple Singers,Christmas Soul Classics,Who Took The Merry Out Of Christmas,0,149333,False,0.609,0.485,-11.166,0.091,0.112,2.08e-05,0.0967,0.736,101.611,4,soul
+84044,402FSzREJH9uDSrXgL2P6f,The Beach Boys,Christmas Classics,God Only Knows - Mono / 1997 Remastered,0,173040,False,0.524,0.487,-7.525,0.0299,0.253,0.0,0.0579,0.482,117.108,4,psych-rock
+84088,1Q8zAPoH5EHukDXyrnZDc7,The Beach Boys,Weihnachten Playlist,God Only Knows - Mono / 1997 Remastered,0,173040,False,0.524,0.487,-7.525,0.0299,0.253,0.0,0.0579,0.482,117.108,4,psych-rock
+91587,402FSzREJH9uDSrXgL2P6f,The Beach Boys,Christmas Classics,God Only Knows - Mono / 1997 Remastered,0,173040,False,0.524,0.487,-7.525,0.0299,0.253,0.0,0.0579,0.482,117.108,4,rock
+91697,4NwFkBUg8ZTGfqZCYsXSCn,Rod Stewart;Michael Bublé,Jingle Bell Rock 2022,Winter Wonderland,0,143226,False,0.684,0.491,-7.655,0.0361,0.71,0.0,0.144,0.4,117.916,4,rock
+33599,274YVxtYNbFJZJfwq4HWRg,The Ready Set,Holly Jolly Christmas,Wonderful Christmastime,0,244426,False,0.589,0.492,-6.404,0.0258,0.163,0.0,0.0786,0.526,96.016,4,emo
+86779,3ryiXNcbrXzwq3T8uNV6Gp,The Ready Set,Christmas Music - Holiday Hits,Wonderful Christmastime,0,244426,False,0.589,0.492,-6.404,0.0258,0.163,0.0,0.0786,0.526,96.016,4,punk
+19320,5LoTy8lGFkffsP1bjU1W9g,Kacey Musgraves;Leon Bridges,Christmas 2022,Present Without A Bow,0,230480,False,0.693,0.492,-6.962,0.0378,0.559,3.66e-06,0.0972,0.595,76.017,4,country
+64534,6SVOQGXuoTQbAWqms1UBOg,Tony Bennett;Lady Gaga,Santa Claus Is Coming To Town,Winter Wonderland,0,149306,False,0.605,0.497,-6.676,0.0319,0.727,3.95e-05,0.102,0.72,126.014,4,jazz
+64530,7bCbMckKLGY2ZPopMbWc2W,Tony Bennett;Lady Gaga,Holiday Tunes 2022,Winter Wonderland,0,149306,False,0.605,0.497,-6.676,0.0319,0.727,3.95e-05,0.102,0.72,126.014,4,jazz
+64611,4FqK9ZI76A3ClDvJRbbW9c,Peggy Lee,Christmas Songs 2022,Happy Holiday,0,115506,False,0.369,0.499,-9.301,0.0448,0.829,1.75e-06,0.154,0.69,192.76,3,jazz
+64634,0b3y0JuA98NQ2Z0WlC3hPW,Peggy Lee,Weihnachtslieder 2022,Happy Holiday,0,115506,False,0.369,0.499,-9.301,0.0448,0.829,1.75e-06,0.154,0.69,192.76,3,jazz
+103827,78QUxAllrdMT2v0wKhlwHP,Peggy Lee,All I Want For Christmas Is You,Happy Holiday,0,115506,False,0.369,0.499,-9.301,0.0448,0.829,1.75e-06,0.154,0.69,192.76,3,soul
+8062,4Ovn5T4LAEE8mfYtsmjLoA,Ella Fitzgerald,Christmas Dinner 2022,Frosty The Snowman,0,131733,False,0.579,0.502,-7.57,0.0513,0.733,0.0,0.281,0.836,76.783,4,blues
+8055,1lJWopyBsnNY029HUETv0R,Ella Fitzgerald,Rock Christmas 2022 - The Very Best Of,Frosty The Snowman,0,131733,False,0.579,0.502,-7.57,0.0513,0.733,0.0,0.281,0.836,76.783,4,blues
+8065,4fV4ENJPXONNMtGiujA2Hj,Ella Fitzgerald,Best Christmas Playlist Ever 2022,Frosty The Snowman,0,131733,False,0.579,0.502,-7.57,0.0513,0.733,0.0,0.281,0.836,76.783,4,blues
+8124,3JibLpqNHuIMfOy3maUWse,Ella Fitzgerald,Pop Fun and Christmas Music 2022,Frosty The Snowman,0,131733,False,0.579,0.502,-7.57,0.0513,0.733,0.0,0.281,0.836,76.783,4,blues
+64176,7ckUEDVJ1woYh2NnaHxA8G,Ella Fitzgerald,Classic Christmas Music 2022,Frosty The Snowman,0,131733,False,0.579,0.502,-7.57,0.0513,0.733,0.0,0.281,0.836,76.783,4,jazz
+64166,5lIAn4lM6KBYzpNttHWhAZ,Ella Fitzgerald,Weihnachten Playlist,Frosty The Snowman,0,131733,False,0.579,0.502,-7.57,0.0513,0.733,0.0,0.281,0.836,76.783,4,jazz
+64161,5qI9gSVZRtAcbkw1Xzx0B9,Ella Fitzgerald,Christmas 2022,Frosty The Snowman,0,131733,False,0.579,0.502,-7.57,0.0513,0.733,0.0,0.281,0.836,76.783,4,jazz
+64231,3GL5VxEIqjPf4BfQb3NV2C,Ella Fitzgerald,Weihnachtslieder 2022,Frosty The Snowman,0,131733,False,0.579,0.502,-7.57,0.0513,0.733,0.0,0.281,0.836,76.783,4,jazz
+64053,4Jfcedn6swtzrhq6wH09rQ,Louis Armstrong;The Commanders,Best Christmas Songs 2022 | For under the Mistletoe,Cool Yule,0,176699,False,0.568,0.505,-8.041,0.128,0.676,1.67e-05,0.516,0.692,149.439,4,jazz
+19683,0CPo7vchHww5MWe13KhAuZ,Michael Ray,New Country Hits,Time Marches On (The Bootlegger Sessions),0,162533,False,0.84,0.507,-7.251,0.0304,0.29,0.0,0.241,0.703,117.947,4,country
+91373,17OzwixEJc4MEjKjF2KSSu,Bryan Adams,World's Best Christmas Playlist,Merry Christmas,0,151387,False,0.683,0.511,-5.598,0.0279,0.406,0.000197,0.111,0.598,109.991,3,rock
+99130,17OzwixEJc4MEjKjF2KSSu,Bryan Adams,World's Best Christmas Playlist,Merry Christmas,0,151387,False,0.683,0.511,-5.598,0.0279,0.406,0.000197,0.111,0.598,109.991,3,singer-songwriter
+102137,1XTXpb4JcidFdrZtz7HlkQ,Bryan Adams,Christmas Songs 2022,Merry Christmas,0,151387,False,0.683,0.511,-5.598,0.0279,0.406,0.000197,0.111,0.598,109.991,3,songwriter
+64123,7boMvoKAVwhb2SQOey89EI,Louis Armstrong;The Commanders,Christmas Playlist 2022,"'Zat You, Santa Claus? - Single Version",0,169092,False,0.683,0.514,-9.168,0.252,0.325,0.0,0.161,0.654,122.097,4,jazz
+39432,47ZCnLYouAI0l1g0HJIrFp,Sarah Connor,Jingle Bell Rock 2022,Christmas In My Heart,0,288440,False,0.649,0.517,-5.227,0.0273,0.54,0.0,0.0601,0.185,119.968,4,german
+39469,54oEOJSjmvxNN8NzgzDsJq,Sarah Connor,All I Want For Christmas Is You,Christmas In My Heart,0,288440,False,0.649,0.517,-5.227,0.0273,0.54,0.0,0.0601,0.185,119.968,4,german
+31435,1TMnhMfuiMokXeBCqvpNmJ,Alessia Cara,Best Christmas Playlist Ever 2022,Make It To Christmas,0,211013,False,0.535,0.522,-7.87,0.0363,0.131,0.0,0.438,0.305,77.054,4,electro
+31420,0zna3xsQS0L4mw2up6PEoV,Alessia Cara,Christmas 2022,Make It To Christmas,0,211013,False,0.535,0.522,-7.87,0.0363,0.131,0.0,0.438,0.305,77.054,4,electro
+31439,1oCHw7qebbQshiMLm8AxE7,Alessia Cara,Christmas Best Hits 2022,Make It To Christmas,0,211013,False,0.535,0.522,-7.87,0.0363,0.131,0.0,0.438,0.305,77.054,4,electro
+51418,4DmD47YgOMFzBZnehrmWj7,Jack Harlow;Drake,Midnight Music,Churchill Downs,0,309327,True,0.71,0.522,-9.102,0.36,0.615,0.0,0.11,0.37,96.448,4,hip-hop
+65173,5SMCxyEHdPJJf9VFwFYo4B,Jack Harlow;Drake,On Chill - Rap & RnB,Churchill Downs,0,309327,True,0.71,0.522,-9.102,0.36,0.615,0.0,0.11,0.37,96.448,4,k-pop
+57138,6mnuDGSAq3FYQrn8KxNPsn,Glass Animals,Mega Hits Autumn/Fall 2022,Heat Waves,0,238805,False,0.761,0.525,-6.9,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,4,indie
+56092,6pWGHtczyTWCbbSp1lba5D,Glass Animals,Обратно в клас - pop,Heat Waves,0,238805,False,0.761,0.525,-6.9,0.0944,0.44,6.7e-06,0.0921,0.531,80.87,4,indie-pop
+76078,3cgiI7Llryl95XQTAjlVSY,Michael Ball,JULMYS,Driving Home For Christmas,0,240693,False,0.569,0.526,-10.204,0.0285,0.709,0.00102,0.326,0.607,90.027,4,opera
+98144,46yKGCvtPXuLq5JUvY8Rk7,Michael Ball,All I want For Christmas Is Music,Driving Home For Christmas,0,240693,False,0.569,0.526,-10.204,0.0285,0.709,0.00102,0.326,0.607,90.027,4,show-tunes
+19472,3f87QI7MIu0VgijoiQmENv,Ingrid Andress;Sam Hunt,Single Saturday Night - Country Songs,Wishful Drinking,0,194544,False,0.678,0.528,-7.317,0.0551,0.289,0.0,0.0734,0.614,79.018,4,country
+62240,5HCTDz7xlEpPN0hTW4mMGh,Jamie Cullum,Christmas Dinner 2022,It's Christmas,0,180626,False,0.534,0.533,-6.161,0.047,0.5,0.0,0.0875,0.478,136.854,4,j-pop
+64584,5HCTDz7xlEpPN0hTW4mMGh,Jamie Cullum,Christmas Dinner 2022,It's Christmas,0,180626,False,0.534,0.533,-6.161,0.047,0.5,0.0,0.0875,0.478,136.854,4,jazz
+106786,2qzUbGqtPUbCUa4qYwtJEx,Helen Sjöholm;Anna Stadling,GOD JUL,Julen kan hjälpa,0,180140,False,0.31,0.534,-8.14,0.0463,0.611,1.79e-05,0.486,0.261,92.694,4,swedish
+37139,0GzrUg3QI5ljFHmyls1Uy2,Stevie Wonder,Christmas Faves 2022,Someday At Christmas,0,169293,False,0.325,0.536,-6.04,0.0323,0.614,0.0,0.251,0.218,101.483,4,funk
+57234,2azALCaOh8XVnlk4eVCmbx,Stevie Wonder,pov: you bake cookies,Someday At Christmas,0,169293,False,0.325,0.536,-6.04,0.0323,0.614,0.0,0.251,0.218,101.483,4,indie
+103128,0lilgvafSkWOEiTaXKBQew,Stevie Wonder,A Very 60s Christmas,Someday At Christmas,0,169293,False,0.325,0.536,-6.04,0.0323,0.614,0.0,0.251,0.218,101.483,4,soul
+107196,3rLKyCGyEVHR5c5sD7cPay,Limahl,Loki- The Complete Fantasy Playlist,Never Ending Story,0,213120,False,0.752,0.538,-13.293,0.0315,0.0629,8.8e-05,0.0767,0.752,123.028,4,synth-pop
+107186,0yFlXqJXhoahp4bwRqC17M,Limahl,Spirit Rangers The Ultimate Fantasy Playlist,Never Ending Story,0,213120,False,0.751,0.538,-13.318,0.0316,0.0639,0.000101,0.0767,0.753,123.028,4,synth-pop
+3175,340BPA00CljfaZLOnRHmz2,GAYLE,Hit After Hit,abcdefu,0,168601,True,0.695,0.54,-5.692,0.0493,0.299,0.0,0.367,0.415,121.932,4,alternative
+62067,6lmmKOEjpbMr7RfC78PJvR,Norah Jones,Christmas 2022,Christmas Calling (Jolly Jones),0,200461,False,0.43,0.543,-6.296,0.0367,0.463,0.000523,0.0928,0.354,143.912,4,j-pop
+62086,1Jw2m5Qdqk0EG94UjSrmmG,Norah Jones,Weihnachtslieder 2022,Christmas Calling (Jolly Jones),0,200461,False,0.43,0.543,-6.296,0.0367,0.463,0.000523,0.0928,0.354,143.912,4,j-pop
+64018,13Cl3XIn5yPJwbVilbRPNb,Norah Jones,Holiday Favorites 2022,Christmas Calling (Jolly Jones),0,200461,False,0.43,0.543,-6.296,0.0367,0.463,0.000523,0.0928,0.354,143.912,4,jazz
+64080,6NKNayk2utB9a7Lv1x7Y1A,Norah Jones,Jingle Bell Rock 2022,Christmas Calling (Jolly Jones),0,200461,False,0.43,0.543,-6.296,0.0367,0.463,0.000523,0.0928,0.354,143.912,4,jazz
+3360,6fmqJtTa7PQlbus7JLG8TY,Bella Poarch,Pop Hits Now,Living Hell,0,174002,False,0.729,0.551,-6.935,0.056,0.598,0.0,0.176,0.312,124.044,4,alternative
+19374,3bXofvvuyCMopFxgcnK1B0,Gabby Barrett,Good Times Country,The Good Ones,0,215140,False,0.519,0.552,-5.023,0.0259,0.18,0.0,0.149,0.331,89.957,4,country
+84046,3RO0U62c7bMxszdLDd3NXi,The Beach Boys,Classic Christmas Music 2022,Little Saint Nick - 1991 Remix,0,118840,False,0.602,0.553,-9.336,0.0328,0.108,0.0,0.0512,0.971,130.594,4,psych-rock
+84089,00toEUNl6yPNBZdnIivdFk,The Beach Boys,Best Christmas Playlist Ever 2022,Little Saint Nick - 1991 Remix,0,118840,False,0.602,0.553,-9.336,0.0328,0.108,0.0,0.0512,0.971,130.594,4,psych-rock
+84030,25naGBZ4ZdgPVa54RH3ZfP,The Beach Boys,Christmas Eve At Home,Little Saint Nick - 1991 Remix,0,118840,False,0.602,0.553,-9.336,0.0328,0.108,0.0,0.0512,0.971,130.594,4,psych-rock
+84039,6dt2cKnkL79xajOcCutBUn,The Beach Boys,Rock n Roll Christmas,Little Saint Nick - 1991 Remix,0,118840,False,0.602,0.553,-9.336,0.0328,0.108,0.0,0.0512,0.971,130.594,4,psych-rock
+84031,7weuZfLzuEUsHq5jvpP3im,The Beach Boys,Weihnachtssongs,Little Saint Nick - 1991 Remix,0,118840,False,0.602,0.553,-9.336,0.0328,0.108,0.0,0.0512,0.971,130.594,4,psych-rock
+91577,2ZVN8uzgXLzwuCvOzMdn5W,The Beach Boys,"It's Christmas, Let's Dance",Little Saint Nick - 1991 Remix,0,118840,False,0.602,0.553,-9.336,0.0328,0.108,0.0,0.0512,0.971,130.594,4,rock
+91635,6V3YhAkCJYdfsAueGUgeCR,The Beach Boys,World's Best Christmas Playlist,Little Saint Nick - 1991 Remix,0,118840,False,0.602,0.553,-9.336,0.0328,0.108,0.0,0.0512,0.971,130.594,4,rock
+91586,00toEUNl6yPNBZdnIivdFk,The Beach Boys,Best Christmas Playlist Ever 2022,Little Saint Nick - 1991 Remix,0,118840,False,0.602,0.553,-9.336,0.0328,0.108,0.0,0.0512,0.971,130.594,4,rock
+91572,4tL0U1zThI2buyH4gZZyjM,The Beach Boys,Christmas Best Hits 2022,Little Saint Nick - 1991 Remix,0,118840,False,0.602,0.553,-9.336,0.0328,0.108,0.0,0.0512,0.971,130.594,4,rock
+25144,550FeVqX2mcfBgriJPJRzz,The Supremes,Best Christmas Songs 2022,My Favorite Things - Stereo,0,165586,False,0.236,0.555,-7.383,0.031,0.0392,0.0,0.213,0.325,80.718,3,disco
+37495,550FeVqX2mcfBgriJPJRzz,The Supremes,Best Christmas Songs 2022,My Favorite Things - Stereo,0,165586,False,0.236,0.555,-7.383,0.031,0.0392,0.0,0.213,0.325,80.718,3,funk
+103588,5lbbKWBKV65RjUGOI8C4fd,The Supremes,A Very 60s Christmas,My Favorite Things - Stereo,0,165586,False,0.236,0.555,-7.383,0.031,0.0392,0.0,0.213,0.325,80.718,3,soul
+99223,7yCy7oPvNzFt8mUw3TVswk,Jax,Top Off Snap Hits,Victoria's Secret,0,176124,True,0.586,0.556,-7.639,0.0592,0.00655,0.0,0.0836,0.517,167.018,4,singer-songwriter
+102224,1cp3GHAfA4LG6xf6SXOKkw,Jax,Pop Hits Now,Victoria's Secret,0,176124,True,0.586,0.556,-7.639,0.0592,0.00655,0.0,0.0836,0.517,167.018,4,songwriter
+87129,7AOlhO09yFC6WvbPSj2qv1,Frankie Valli & The Four Seasons,Holly Jolly Christmas,I Saw Mommy Kissing Santa Claus,0,136306,False,0.629,0.56,-11.455,0.0523,0.595,0.0,0.182,0.88,118.895,3,r-n-b
+90087,3cHu1UqgGTMPLiGrWDQHVC,Frankie Valli & The Four Seasons,Christmas Music - Holiday Hits,I Saw Mommy Kissing Santa Claus,0,136306,False,0.629,0.56,-11.455,0.0523,0.595,0.0,0.182,0.88,118.895,3,rock-n-roll
+103689,1qi64DOjaB3BQDGZmNg3AG,Frankie Valli & The Four Seasons,Christmas Time,I Saw Mommy Kissing Santa Claus,0,136306,False,0.629,0.56,-11.455,0.0523,0.595,0.0,0.182,0.88,118.895,3,soul
+51424,7fduswfw6pp8e1U4k5aF0R,Jack Harlow,2Step - Pop R'n'B,First Class,0,173947,True,0.905,0.563,-6.135,0.102,0.0254,9.71e-06,0.113,0.324,106.998,4,hip-hop
+51420,1nYAl9wYboVclul2fkCiyr,Jack Harlow,Pop Brandneu,First Class,0,173947,True,0.905,0.563,-6.135,0.102,0.0254,9.71e-06,0.113,0.324,106.998,4,hip-hop
+65187,1jBIlZyCUOylXmEuLNvGCQ,Jack Harlow,Totally Rap,First Class,0,173947,True,0.905,0.563,-6.135,0.102,0.0254,9.71e-06,0.113,0.324,106.998,4,k-pop
+65158,445XlOVyjyGvdrQfkQA1lg,Jack Harlow,All That Really Matters - Just Hits,First Class,0,173947,True,0.905,0.563,-6.135,0.102,0.0254,9.71e-06,0.113,0.324,106.998,4,k-pop
+20468,13lcPEauPnz6ynDJIfHZAR,Burna Boy,Comme un lundi,Last Last,0,172342,False,0.795,0.565,-4.457,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dance
+20476,1NdGOt0hJikfIy2OUkXdi2,Burna Boy,Totally Rap,Last Last,0,172342,False,0.795,0.565,-4.457,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dance
+20471,0hWBiQZZ7btfzKoMDUUHCH,Burna Boy,Internet Sensations,Last Last,0,172342,False,0.795,0.565,-4.457,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dance
+21009,40pz6QQ5xwbaCZX5gK8GcQ,Burna Boy,Hits Hits Hits,Last Last,0,172342,False,0.795,0.565,-4.457,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dancehall
+21012,2cFjQQ33h8NiQAKqpJGhgd,Burna Boy,20's R'n'B,Last Last,0,172342,False,0.795,0.565,-4.457,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dancehall
+21034,3RU4IbiteV8v6Haa7sDrOV,Burna Boy,Your Perfect Soundtrack,Last Last,0,172342,False,0.795,0.565,-4.457,0.0948,0.131,0.0,0.0802,0.55,87.925,4,dancehall
+51928,10k9teyEyRep55WEzxz5oc,Burna Boy,New Rap 20s,Last Last,0,172342,False,0.795,0.565,-4.457,0.0948,0.131,0.0,0.0802,0.55,87.925,4,hip-hop
+51862,43CLNfvNyalChk97jKDiAD,Burna Boy,Evergreen,Last Last,0,172342,False,0.795,0.565,-4.457,0.0948,0.131,0.0,0.0802,0.55,87.925,4,hip-hop
+51930,2ECokGI5VuABjcNb90be3p,Burna Boy,Summer Music Festival Hits,Last Last,0,172342,False,0.795,0.565,-4.457,0.0948,0.131,0.0,0.0802,0.55,87.925,4,hip-hop
+56743,0xRZoKxGqFGdxwbkawZH7W,Hayley Kiyoko,Refresh - Pop To Cool Down,sugar at the bottom,0,185995,False,0.866,0.565,-6.983,0.0583,0.455,0.000226,0.246,0.549,101.985,4,indie-pop
+62947,5m0IZCKuQ1ea4wCnpWr0ne,Jack Jones,World's Best Christmas Playlist,Mistletoe And Holly,0,101826,False,0.451,0.566,-10.766,0.0382,0.697,0.0,0.119,0.847,98.439,1,j-pop
+19279,0t02v0CVkIMWiCJ9vm937B,Kacey Musgraves,Weihnachten Musik,Feliz Navidad,0,201373,False,0.724,0.566,-5.117,0.0305,0.617,0.00023,0.234,0.873,131.174,4,country
+19129,0fchsvPWZULjTtlp8I6ehS,Bailey Zimmerman,Single Saturday Night - Country Songs,Rock and a Hard Place,0,207540,False,0.582,0.568,-7.3,0.0275,0.577,0.0,0.105,0.394,121.991,3,country
+92120,6WltSgEAIdgsJUwZOWI80S,Brenda Lee,60s Christmas Party,Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,-5.956,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+92060,5HrDA3N0ksfsqXamG0r4nR,Brenda Lee,All I want For Christmas Is Music,Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,-5.956,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+92082,127PZFbwkTh2DDG3OLETbb,Brenda Lee,pov: you rock around the christmas tree,Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,-5.956,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+92071,6QUUUfdM8ivwzTgnHTdzCz,Brenda Lee,Classic Christmas Music 2022,Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,-5.956,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+92085,7c0YADmyBIFYFRkwR0WWa8,Brenda Lee,Weihnachtspop 2022,Rockin' Around The Christmas Tree,0,123453,False,0.631,0.569,-5.956,0.0438,0.728,0.0,0.27,0.874,71.078,4,rockabilly
+99530,0OMN3x29KaBjSZdAv8qp3f,Sara Kays,Pop n' Fresh,Watching TV,0,160677,False,0.581,0.571,-6.924,0.0738,0.587,0.0,0.139,0.456,117.965,4,singer-songwriter
+102532,6ZtGz37trOaizvitAyHa5s,Sara Kays,u don't deserve me,Watching TV,0,160677,False,0.581,0.571,-6.924,0.0738,0.587,0.0,0.139,0.456,117.965,4,songwriter
+19061,1reKcluTdLC5sHyUi49XOV,Dan + Shay,Burn Burn Burn - Hot Country Hits,You,0,196253,False,0.544,0.572,-6.205,0.0319,0.118,0.0,0.234,0.52,169.885,4,country
+99487,2N5EAwQN2LTGzkzre4IUga,Amy Macdonald,Weihnachtspop 2022,This Christmas Day,0,218798,False,0.248,0.572,-6.827,0.0429,0.278,0.0,0.139,0.228,205.458,3,singer-songwriter
+102488,0xAq1IF0WA9321vHUUP4yG,Amy Macdonald,Holidays Are Coming,This Christmas Day,0,218798,False,0.248,0.572,-6.827,0.0429,0.278,0.0,0.139,0.228,205.458,3,songwriter
+67086,56FjTokFXI8OJIkVeP7yGA,Feid,Clásicos de ahora: Perreo,Feliz Cumpleaños Ferxxo,0,155960,False,0.865,0.573,-5.501,0.0678,0.0863,0.0,0.305,0.563,94.999,4,latin
+68040,5h3PtoxLaZW2d9wKi46pQX,Feid,El perreo es el futuro,Feliz Cumpleaños Ferxxo,0,155960,False,0.865,0.573,-5.501,0.0678,0.0863,0.0,0.305,0.563,94.999,4,latino
+81643,56FjTokFXI8OJIkVeP7yGA,Feid,Clásicos de ahora: Perreo,Feliz Cumpleaños Ferxxo,0,155960,False,0.865,0.573,-5.501,0.0678,0.0863,0.0,0.305,0.563,94.999,4,pop
+31373,3XcV8CIZVzH2b5hiche9d6,Bazzi,New Pop Classics,Heaven,0,153391,False,0.798,0.575,-5.515,0.035,0.14,3.62e-06,0.056,0.683,114.986,4,electro
+91331,4dxQJF9j2qXqZsJdW4Lg5y,Bryan Adams,Christmas Playlist 2022,Christmas Time,0,243057,False,0.503,0.582,-4.324,0.0253,0.472,0.0,0.103,0.326,77.321,4,rock
+91333,6je1dnckDvoE04VJtC5zww,Bryan Adams,Weihnachtslieder 2022,Christmas Time,0,243057,False,0.503,0.582,-4.324,0.0253,0.472,0.0,0.103,0.326,77.321,4,rock
+99129,7cWD565NKIelWEJg9HcRd5,Bryan Adams,Jingle Bell Rock 2022,Christmas Time,0,243057,False,0.503,0.582,-4.324,0.0253,0.472,0.0,0.103,0.326,77.321,4,singer-songwriter
+99094,6Zmrewk5OEQNZxlkFpvTi3,Bryan Adams,All I Want For Christmas Is You,Christmas Time,0,243057,False,0.503,0.582,-4.324,0.0253,0.472,0.0,0.103,0.326,77.321,4,singer-songwriter
+102136,13H3jef8bfXNHUab8NOem3,Bryan Adams,All I want For Christmas Is Music,Christmas Time,0,243057,False,0.503,0.582,-4.324,0.0253,0.472,0.0,0.103,0.326,77.321,4,songwriter
+102092,7gyzXunQxTRapIBtkIoG7K,Bryan Adams,Pop Christmas 2022,Christmas Time,0,243057,False,0.503,0.582,-4.324,0.0253,0.472,0.0,0.103,0.326,77.321,4,songwriter
+76019,7BJJeYemxKUPKICj8xcQfo,Il Volo,Weihnachtslieder 2022,"Christmas Medley: Jingle Bells Rock / Let It Snow, Let It Snow, Let It Snow / It's The Most Wonderful Time Of The Year",0,219160,False,0.427,0.587,-5.527,0.033,0.642,0.0,0.315,0.579,130.144,4,opera
+91176,6sip08gdiY8zQZJojfhJkQ,Panic! At The Disco,This Is Why - This Is Rock,Don't Let the Light Go Out,0,229517,False,0.492,0.59,-4.032,0.0313,0.00109,0.0023,0.271,0.179,117.637,4,rock
+20277,0GDAt9fPbs9tPqg2n4ne5u,Charlie Puth;Jung Kook,New Arrivals,Left and Right,0,154486,False,0.881,0.592,-4.898,0.0324,0.619,1.32e-05,0.0901,0.719,101.058,4,dance
+31176,50etdpjrySctCaS4yw0a72,Melanie Martinez,Baddest of Them All,Pacify Her,0,220013,False,0.576,0.593,-6.024,0.0305,0.0459,0.000834,0.237,0.366,157.993,4,electro
+20630,0mGt87s5MXXrDFPWhNdf7r,Ava Max,Merry Christmas,Christmas Without You,0,169245,False,0.654,0.596,-4.68,0.0458,0.424,0.0,0.11,0.382,118.078,4,dance
+19280,0fI5GUO2rDHujmgu6JpUgQ,Kacey Musgraves;Camila Cabello,Christmas 2022,Rockin' Around The Christmas Tree - From The Kacey Musgraves Christmas Show,0,124240,False,0.745,0.598,-6.053,0.0975,0.129,0.0,0.678,0.789,148.906,4,country
+20119,7mDdR7ynAJuMdkr49AlF1W,Bruno Mars;Anderson .Paak;Silk Sonic,Trending Pop,Skate,0,203122,False,0.708,0.598,-8.365,0.0291,0.037,0.0,0.17,0.698,112.027,4,dance
+20669,2puCdLnS6sKRdbEabw4bjP,Wiz Khalifa,Ghetto Superstar - New Rap Classics,Bad Ass Bitches,0,118466,True,0.904,0.601,-5.561,0.198,0.0305,0.0,0.615,0.761,87.037,4,dance
+51587,0pp7ZaS8BM0t3iB3DzioJ0,Wiz Khalifa,Walk - Fresh Rap Flow,Bad Ass Bitches,0,118466,True,0.904,0.601,-5.561,0.198,0.0305,0.0,0.615,0.761,87.037,4,hip-hop
+31237,2W8Y6xiyEnDsz4zABKAxQf,Alec Benjamin,Hit After Hit,Devil Doesn't Bargain,0,163613,False,0.448,0.606,-4.565,0.0609,0.577,0.0,0.217,0.483,121.15,4,electro
+67204,3J5Nfej0N8j9h8n1uKCsBb,Jhayco;Bad Bunny,FELIZ CUMPLEAÑOS,CÓMO SE SIENTE - Remix,0,227520,True,0.807,0.606,-8.871,0.0872,0.0946,0.0,0.119,0.304,92.988,4,latin
+68206,3J5Nfej0N8j9h8n1uKCsBb,Jhayco;Bad Bunny,FELIZ CUMPLEAÑOS,CÓMO SE SIENTE - Remix,0,227520,True,0.807,0.606,-8.871,0.0872,0.0946,0.0,0.119,0.304,92.988,4,latino
+88272,39xU2D7t9LWs9EueUtC48K,Jhayco;Bad Bunny,Última Misión Reggaeton,CÓMO SE SIENTE - Remix,0,227520,True,0.807,0.606,-8.871,0.0872,0.0946,0.0,0.119,0.304,92.988,4,reggae
+89265,39xU2D7t9LWs9EueUtC48K,Jhayco;Bad Bunny,Última Misión Reggaeton,CÓMO SE SIENTE - Remix,0,227520,True,0.807,0.606,-8.871,0.0872,0.0946,0.0,0.119,0.304,92.988,4,reggaeton
+67736,4DfK4XJBCKH4xYCXZHq6U8,Mariah Angeliq,Perreo en Halloween,Perreito,0,123680,True,0.737,0.607,-3.599,0.0835,0.194,0.11,0.132,0.528,179.957,4,latin
+68491,7CGSpFqCWZmxDREv3FqPnr,Mariah Angeliq,Halloween 2022 Perreo Vol. 1,Perreito,0,123680,True,0.737,0.607,-3.599,0.0835,0.194,0.11,0.132,0.528,179.957,4,latino
+20217,2Mugx1GjnOuyzbp0sYE4yr,Katy Perry,Jingle Bell Rock 2022,Cozy Little Christmas,0,182520,False,0.775,0.608,-6.264,0.128,0.128,0.0,0.0895,0.56,137.494,4,dance
+20240,2tQpDh9AC2IhLDwjWxqAWA,Katy Perry,Santa Claus Is Coming To Town,Cozy Little Christmas,0,182520,False,0.775,0.608,-6.264,0.128,0.128,0.0,0.0895,0.56,137.494,4,dance
+20234,1pu8zYG4DAMAQhPblADRKO,Katy Perry,pov: you are walking in a winter wonderland,Cozy Little Christmas,0,182520,False,0.775,0.608,-6.264,0.128,0.128,0.0,0.0895,0.56,137.494,4,dance
+30633,4XhqI8mj8OjeXhtf4YYNc3,Mabel,pov: you have a holly jolly christmas,Loneliest Time Of Year,0,202693,False,0.517,0.609,-5.702,0.0291,0.0631,0.0,0.106,0.239,92.093,4,edm
+53629,7qqXINzcD08Ek8RJuc3Cqx,Mabel,JULPYNTA,Loneliest Time Of Year,0,202693,False,0.517,0.609,-5.702,0.0291,0.0631,0.0,0.106,0.239,92.093,4,house
+37123,4eQcRkyIXRwJ51XkL1Kls3,Stevie Wonder,12 Days of Christmas 2022,What Christmas Means To Me,0,147800,False,0.524,0.614,-8.05,0.0363,0.202,0.0,0.0802,0.751,82.229,4,funk
+37119,2mQMVfhQFNACyM24qbrXl5,Stevie Wonder,pov: you bake cookies,What Christmas Means To Me,0,147800,False,0.524,0.614,-8.05,0.0363,0.202,0.0,0.0802,0.751,82.229,4,funk
+57233,2mQMVfhQFNACyM24qbrXl5,Stevie Wonder,pov: you bake cookies,What Christmas Means To Me,0,147800,False,0.524,0.614,-8.05,0.0363,0.202,0.0,0.0802,0.751,82.229,4,indie
+57286,1ZE8dSKL83pY6qInQG5CA5,Stevie Wonder,Xmas Classics 2022,What Christmas Means To Me,0,147800,False,0.524,0.614,-8.05,0.0363,0.202,0.0,0.0802,0.751,82.229,4,indie
+103134,57gVVLb830Hh7w0L2QT9Ut,Stevie Wonder,pov: you are walking in a winter wonderland,What Christmas Means To Me,0,147800,False,0.524,0.614,-8.05,0.0363,0.202,0.0,0.0802,0.751,82.229,4,soul
+103092,10VHztYhhjtQfvzNjlLFbx,Stevie Wonder,Home At Christmas,What Christmas Means To Me,0,147800,False,0.524,0.614,-8.05,0.0363,0.202,0.0,0.0802,0.751,82.229,4,soul
+103347,7cg8rIONa4tuHUyLc71ATg,The Jackson 5,pov: you are walking in a winter wonderland,Frosty The Snowman,0,159413,False,0.672,0.615,-8.274,0.0293,0.471,0.0,0.0911,0.944,119.693,4,soul
+3562,3CjDcS506vLoyV4qKKeTGW,FKA twigs,New RnB,killer,0,176876,False,0.401,0.619,-7.035,0.21,0.168,0.0,0.272,0.757,78.763,4,alternative
+3561,4FVIHsnonPabmiAkoNKOJa,FKA twigs,New Grooves,killer,0,176876,False,0.401,0.619,-7.035,0.21,0.168,0.0,0.272,0.757,78.763,4,alternative
+111023,3CjDcS506vLoyV4qKKeTGW,FKA twigs,New RnB,killer,0,176876,False,0.401,0.619,-7.035,0.21,0.168,0.0,0.272,0.757,78.763,4,trip-hop
+111040,5kZbD9TCr2Iw9HoQFHB9Ec,FKA twigs,Your Perfect Soundtrack,killer,0,176876,False,0.401,0.619,-7.035,0.21,0.168,0.0,0.272,0.757,78.763,4,trip-hop
+110048,5h4c5VjiJ3QUZRNQ7iRgka,Tiësto,Objectif Running : Dance,The Business,0,164000,False,0.798,0.62,-7.079,0.232,0.414,0.0192,0.112,0.235,120.031,4,trance
+67659,0DBBQaDg8YPePplq7m7Cah,Kevin Roldan,Clásicos de ahora: Perreo,PPP,0,129332,False,0.798,0.625,-6.83,0.13,0.383,3.33e-05,0.125,0.774,92.994,4,latin
+68530,1CAeeyQyXfuEfM13nSYuXi,Kevin Roldan,Halloween con perreito,PPP,0,129332,False,0.798,0.625,-6.83,0.13,0.383,3.33e-05,0.125,0.774,92.994,4,latino
+88463,1CAeeyQyXfuEfM13nSYuXi,Kevin Roldan,Halloween con perreito,PPP,0,129332,False,0.798,0.625,-6.83,0.13,0.383,3.33e-05,0.125,0.774,92.994,4,reggae
+89478,1CAeeyQyXfuEfM13nSYuXi,Kevin Roldan,Halloween con perreito,PPP,0,129332,False,0.798,0.625,-6.83,0.13,0.383,3.33e-05,0.125,0.774,92.994,4,reggaeton
+20280,3CnbQN1Meotw8tBlReHg7q,Charlie Puth,Cardio Tracks,Light Switch,0,185680,False,0.69,0.626,-5.693,0.306,0.105,0.000335,0.0881,0.912,184.009,4,dance
+19536,6WFhyQ6n43T6bWQgjtW3aX,Ian Munsick,Laidback Country,Long Haul,0,231265,False,0.505,0.627,-7.851,0.0273,0.423,7.4e-05,0.0755,0.296,141.881,4,country
+67207,6Vr7Y7H1QwEZ2JSf9enPif,Jhayco,FELIZ CUMPLEAÑOS,Sensual Bebé,0,209146,True,0.776,0.629,-6.09,0.0505,0.0268,0.0,0.114,0.104,97.066,4,latin
+68213,6Vr7Y7H1QwEZ2JSf9enPif,Jhayco,FELIZ CUMPLEAÑOS,Sensual Bebé,0,209146,True,0.776,0.629,-6.09,0.0505,0.0268,0.0,0.114,0.104,97.066,4,latino
+19104,6nDPNWeMK5UxWwcMGGkVA4,Dan + Shay;Justin Bieber,Laidback Country,"10,000 Hours",0,167693,False,0.654,0.63,-4.644,0.0259,0.149,0.0,0.111,0.43,89.991,4,country
+39434,504ONTckgGHRqpZqBoWo96,Sarah Connor,Christmas Classics,The Best Side Of Life,0,229333,False,0.631,0.634,-5.202,0.0326,0.568,0.0,0.124,0.569,90.947,4,german
+39438,2GKDFRuo64ZYeoxDBV6VFB,Sarah Connor,Jingle Bell Rock 2022,The Best Side Of Life,0,229333,False,0.631,0.634,-5.202,0.0326,0.568,0.0,0.124,0.569,90.947,4,german
+92093,1kIk2VlX0AC6LQVFIeEqRF,Brenda Lee,Christmas Music - Holiday Hits,Rockin' Around the Christmas Tree - Re-Recorded Version,0,126146,False,0.682,0.641,-8.904,0.0384,0.564,0.0,0.224,0.824,141.003,4,rockabilly
+19137,1L3s7R9tvoXebcEioxl0at,Bailey Zimmerman,Oklahoma Smokeshow - Breakout Country,Fall in Love,0,232058,False,0.524,0.643,-6.055,0.0297,0.451,0.0,0.221,0.397,135.962,4,country
+81226,4rtMPgzwPAWtNIjQneZpjP,Ed Sheeran;Lil Baby,Your Perfect Soundtrack,2step,0,163449,False,0.693,0.643,-5.867,0.0828,0.138,0.0,0.108,0.477,95.055,4,pop
+64298,5FluYyNVSa5MzXqH4zboGr,Nat King Cole,World's Best Christmas Playlist,The Happiest Christmas Tree - Remastered 2009,0,105346,False,0.494,0.644,-11.781,0.905,0.704,0.0,0.781,0.866,206.13,4,jazz
+67102,6Ok7LQxIDEqKQEFUBNRzpx,J Balvin;Bad Bunny,Bájale como 7500,LA CANCIÓN,2,242573,False,0.756,0.646,-5.795,0.319,0.152,1.81e-05,0.108,0.429,176.088,4,latin
+51482,724GJE6FqTdNKMARgAr6i7,Jack Harlow,New Arrivals,Dua Lipa,0,135053,True,0.833,0.652,-6.942,0.0762,0.00161,0.0985,0.106,0.405,158.022,4,hip-hop
+103228,6BLsEzE62odkTXVtVwzBhF,Pink Sweat$;Donny Hathaway,Perfect Christmas Hits,This Christmas,0,181365,False,0.639,0.656,-6.581,0.0421,0.118,2.76e-06,0.0841,0.382,93.129,4,soul
+28048,23w5t0BtEc4N6PviWmAlAc,ILLENIUM;Teddy Swims,I'm Blue - Hits of 2022,All That Really Matters,0,244235,False,0.352,0.666,-4.909,0.0512,0.117,1.81e-06,0.0934,0.227,169.965,4,dub
+29040,30vw5cYMk3fBMB4bwcgUMS,ILLENIUM;Teddy Swims,Pop Hits Now,All That Really Matters,0,244235,False,0.352,0.666,-4.909,0.0512,0.117,1.81e-06,0.0934,0.227,169.965,4,dubstep
+30801,0iajFCLXYYqX2XS6q4ptsF,ILLENIUM;Teddy Swims,Worst Day,All That Really Matters,0,244235,False,0.352,0.666,-4.909,0.0512,0.117,1.81e-06,0.0934,0.227,169.965,4,edm
+81333,7L45FaJtYVIlQP8UlqYom2,Justin Bieber,Christmas Playlist 2022,Mistletoe,0,183066,False,0.623,0.668,-7.282,0.0531,0.475,0.0,0.0862,0.823,161.948,4,pop
+81293,4IcUp3kORzPyqQgmJjFIMy,Justin Bieber,Weihnachtspop 2022,Mistletoe,0,183066,False,0.623,0.668,-7.282,0.0531,0.475,0.0,0.0862,0.823,161.948,4,pop
+81325,3ATMIyGvkoR8yTeqFCiHFl,Justin Bieber,Weihnachten Musik,Mistletoe,2,183066,False,0.623,0.668,-7.282,0.0531,0.475,0.0,0.0862,0.823,161.948,4,pop
+31534,5koDkemB6cdYV9H0mMzQXq,Nessa Barrett,Beautiful Trending Hits 2022,die first,0,177108,False,0.444,0.669,-6.727,0.125,0.0669,0.0,0.124,0.44,183.441,4,electro
+31528,6FM8eHZdZfGEcE5psG4wad,Nessa Barrett,Hits à suivre 2022,die first,0,177108,False,0.444,0.669,-6.727,0.125,0.0669,0.0,0.124,0.44,183.441,4,electro
+67680,1JnPImcRMLyzAQhIVSEGwW,Kevin Roldan;Bryant Myers;Lyanno,Halloween con perreito,Hasta Abajo,0,229826,False,0.714,0.671,-5.119,0.362,0.292,0.0,0.325,0.641,169.727,4,latin
+68488,29JCWevsvdisCcX8U3m9Rr,Kevin Roldan;Bryant Myers;Lyanno,Esto No Se Le Dedica A Cualquiera,Hasta Abajo,0,229826,False,0.714,0.671,-5.119,0.362,0.292,0.0,0.325,0.641,169.727,4,latino
+91714,5KssLmpI5kFCx1sBYc1T8c,Jaymes Young,Give You Love - Cozy Hits,Infinity,0,237720,False,0.671,0.673,-6.941,0.0444,0.15,5.16e-05,0.304,0.493,121.96,4,rock
+78048,1wKlYoHZ5O6pVbvt2Zxvz2,Andreas Gabalier,Karneval Klassiker,Hulapalu,0,180252,False,0.705,0.676,-4.672,0.0467,0.505,0.0,0.628,0.701,124.96,4,party
+79033,79iAblD2XBkWbXnY8KeHLS,OneRepublic,Weihnachten Musik,Christmas Without You,0,197146,False,0.262,0.677,-5.645,0.0528,0.447,0.0,0.205,0.365,207.478,3,piano
+79045,6jWSUiDx2PiV8kgugdz29D,OneRepublic,Best Christmas Music 2022,Christmas Without You,0,197146,False,0.262,0.677,-5.645,0.0528,0.447,0.0,0.205,0.365,207.478,3,piano
+91048,5SBYmJR4hq0n6wIM78t22h,OneRepublic,Weihnachtspop 2022,Christmas Without You,0,197146,False,0.262,0.677,-5.645,0.0528,0.447,0.0,0.205,0.365,207.478,3,rock
+91047,1xX6PCb6ZDyanJQuJOvGj0,OneRepublic,The Very Best Christmas Songs 2022,Christmas Without You,0,197146,False,0.262,0.677,-5.645,0.0528,0.447,0.0,0.205,0.365,207.478,3,rock
+19486,2t3aiGKuxn3slkY167QhWy,BRELAND;Lady A,Oklahoma Smokeshow - Breakout Country,Told You I Could Drink,0,236990,False,0.542,0.68,-4.434,0.0285,0.175,0.0,0.093,0.878,167.966,4,country
+19186,2mfrgrVo0HhcPzcfiphmsy,Kenny Chesney,Hideaway - New Boots,Everyone She Knows,0,204986,False,0.659,0.682,-5.045,0.0293,0.00992,0.0,0.159,0.664,109.022,4,country
+47,0JvkNRyq8Tmot9khpdtN0I,Brandi Carlile;Lucius,Good Times Country,You and Me on the Rock,0,230098,False,0.568,0.686,-6.635,0.033,0.15,1.81e-06,0.0881,0.725,172.075,4,acoustic
+34196,1MLr9b1fOybO3MGiLy47Ys,Brandi Carlile;Lucius,Country Road Songs,You and Me on the Rock,0,230098,False,0.568,0.686,-6.635,0.033,0.15,1.81e-06,0.0881,0.725,172.075,4,folk
+23020,1Ef2kTon47BwiPQP2SovYa,James Hype;Miggy Dela Rosa,Arbeitsmusik Herbst/Winter 2022/2023,Ferrari,0,186661,False,0.847,0.69,-7.877,0.0493,0.0127,6e-05,0.0526,0.692,125.004,4,deep-house
+37148,33OY3KMWt0DbXJoP7r8MaA,Stevie Wonder,Silent Night,What Christmas Means To Me - Single Version / Mono,0,148146,False,0.545,0.7,-6.961,0.0323,0.0982,0.0,0.1,0.799,83.506,4,funk
+37099,4P8dU9hTkF6imgCoMijYag,Stevie Wonder,Santa Claus Is Coming To Town,What Christmas Means To Me - Single Version / Mono,0,148146,False,0.545,0.7,-6.961,0.0323,0.0982,0.0,0.1,0.799,83.506,4,funk
+57268,4krDgarmwOgZxppwJd8RkY,Stevie Wonder,pov: you saw mommy kissing santa claus,What Christmas Means To Me - Single Version / Mono,0,148146,False,0.545,0.7,-6.961,0.0323,0.0982,0.0,0.1,0.799,83.506,4,indie
+57293,6d4D1TS8v4WDJYBSNC7nol,Stevie Wonder,Christmas Classics,What Christmas Means To Me - Single Version / Mono,0,148146,False,0.545,0.7,-6.961,0.0323,0.0982,0.0,0.1,0.799,83.506,4,indie
+103144,4RWsdetm3NxNWsI88bJ23y,Stevie Wonder,Weihnachtssongs,What Christmas Means To Me - Single Version / Mono,0,148146,False,0.545,0.7,-6.961,0.0323,0.0982,0.0,0.1,0.799,83.506,4,soul
+103143,33OY3KMWt0DbXJoP7r8MaA,Stevie Wonder,Silent Night,What Christmas Means To Me - Single Version / Mono,0,148146,False,0.545,0.7,-6.961,0.0323,0.0982,0.0,0.1,0.799,83.506,4,soul
+19382,3KhYaYbgpORqQRMIWaSU2b,Gabby Barrett,Your Perfect Soundtrack,Pick Me Up,0,169440,False,0.472,0.701,-4.563,0.0369,0.0387,0.0,0.107,0.515,79.805,4,country
+107347,3A59kITyzBcF4273kEzsfr,Tubeway Army,East New York The Ultimate Fantasy Playlist,I Only Rewind,0,250026,False,0.627,0.704,-8.415,0.0497,0.0458,0.0859,0.113,0.781,141.891,4,synth-pop
+88134,0ZdyCcW6uUOBjb8CQvyg3m,KAROL G;Mariah Angeliq,Fiesta portatil,EL MAKINON,0,209160,False,0.689,0.705,-3.224,0.102,0.256,1.06e-06,0.108,0.456,89.109,4,reggae
+89134,3ljbfC0Cfy2hdRIJcjSIjt,KAROL G;Mariah Angeliq,Perreo Tenebroso Vol. 4,EL MAKINON,0,209160,False,0.689,0.705,-3.224,0.102,0.256,1.06e-06,0.108,0.456,89.109,4,reggaeton
+103337,5Qh0fD19S8VQm5uP9r8f4c,The Jackson 5,Classic Christmas 2022,I Saw Mommy Kissing Santa Claus,0,181360,False,0.582,0.705,-8.169,0.0539,0.29,1.38e-06,0.797,0.64,128.89,4,soul
+103339,5qctqtbCZJ1KigxGWqeGVc,The Jackson 5,Best Christmas Playlist Ever 2022,I Saw Mommy Kissing Santa Claus,0,181360,False,0.582,0.705,-8.169,0.0539,0.29,1.38e-06,0.797,0.64,128.89,4,soul
+103394,2SSZlqFPj6pCmOQhwVmgPi,The Jackson 5,All I Want For Christmas Is You,I Saw Mommy Kissing Santa Claus,0,181360,False,0.582,0.705,-8.169,0.0539,0.29,1.38e-06,0.797,0.64,128.89,4,soul
+20313,6X17fdWVg6fsBPafs32JJi,Bebe Rexha;Pink Sweat$;Lunay,Midnight Music,On the Go,0,179397,False,0.716,0.709,-4.683,0.0529,0.0749,0.00261,0.182,0.434,100.059,4,dance
+34544,2mI1SPVGokUeX4ZRRulIrL,Pretenders,Christmas Music - Holiday Hits,2000 Miles - 2007 Remaster,0,220426,False,0.292,0.709,-9.052,0.0303,0.00292,0.0267,0.102,0.452,99.303,3,folk
+37013,0XdLUGUaamRJax90fTO2ob,Anitta;Missy Elliott,Pop Brandneu,Lobby,0,157837,False,0.759,0.711,-5.199,0.0384,0.0477,1.19e-06,0.143,0.436,111.902,4,funk
+77016,0XdLUGUaamRJax90fTO2ob,Anitta;Missy Elliott,Pop Brandneu,Lobby,0,157837,False,0.759,0.711,-5.199,0.0384,0.0477,1.19e-06,0.143,0.436,111.902,4,pagode
+1098,1AMkh8OSTuP6CcAvP59xL7,Hugh Masekela,Best Afrodance Tunes,District Six - Live,0,527506,False,0.778,0.711,-11.367,0.0643,0.352,0.0473,0.969,0.858,108.127,4,afrobeat
+8994,7LFjR00hYqMp5TzC4Y8ghA,Eric Burdon,Heliborne The Ultimate Fantasy Playlist,Don't Let Me Be Misunderstood,0,157360,False,0.673,0.712,-7.858,0.0273,0.159,0.0,0.183,0.912,113.061,4,blues
+11693,7aLVYBUwcDsd1XBNrBj4ko,Eric Burdon,Love Between Fairy And Devil The Ultimate Fantasy Playlist,Don't Let Me Be Misunderstood,0,157360,False,0.673,0.712,-7.858,0.0273,0.159,0.0,0.183,0.912,113.061,4,british
+84539,7aLVYBUwcDsd1XBNrBj4ko,Eric Burdon,Love Between Fairy And Devil The Ultimate Fantasy Playlist,Don't Let Me Be Misunderstood,0,157360,False,0.673,0.712,-7.858,0.0273,0.159,0.0,0.183,0.912,113.061,4,psych-rock
+98032,3oMKty3XmdEhm7hjQmDC6C,Idina Menzel,Christmas Dinner 2022,Christmas Just Ain't Christmas,0,212306,False,0.681,0.712,-7.445,0.0393,0.32,0.0,0.295,0.84,115.098,4,show-tunes
+20085,0uzruYGkFgeSevF5kaWq7Y,David Guetta;Becky Hill;Ella Henderson,Daily Pop Mix,Crazy What Love Can Do,0,169756,False,0.601,0.713,-3.758,0.0449,0.0282,0.0,0.158,0.464,122.872,4,dance
+30025,0kdIImE10HocARiLPkJmQ1,David Guetta;Becky Hill;Ella Henderson,Hit After Hit,Crazy What Love Can Do,0,169756,False,0.601,0.713,-3.758,0.0449,0.0282,0.0,0.158,0.464,122.872,4,edm
+81471,7vv8wSGmc8Qm8o1qrgTEq1,David Guetta;Becky Hill;Ella Henderson,New Arrivals,Crazy What Love Can Do,0,169756,False,0.601,0.713,-3.758,0.0449,0.0282,0.0,0.158,0.464,122.872,4,pop
+20694,3rX3R3OoyikoECxdgQ9tnL,Robin Schulz;Tom Walker,Cardio Tracks,Sun Will Shine,0,201700,False,0.534,0.714,-6.347,0.0629,0.00633,0.0,0.0879,0.415,125.99,4,dance
+30178,3rX3R3OoyikoECxdgQ9tnL,Robin Schulz;Tom Walker,Cardio Tracks,Sun Will Shine,0,201700,False,0.534,0.714,-6.347,0.0629,0.00633,0.0,0.0879,0.415,125.99,4,edm
+39010,7py6vU2H9mlNd14m4g89gy,Robin Schulz;Tom Walker,Hits à suivre 2022,Sun Will Shine,0,201700,False,0.534,0.714,-6.347,0.0629,0.00633,0.0,0.0879,0.415,125.99,4,german
+53136,3rX3R3OoyikoECxdgQ9tnL,Robin Schulz;Tom Walker,Cardio Tracks,Sun Will Shine,0,201700,False,0.534,0.714,-6.347,0.0629,0.00633,0.0,0.0879,0.415,125.99,4,house
+3556,1djJRLSBe7UKJ7F1p3tidC,FKA twigs;The Weeknd,New Grooves,tears in the club,0,196760,True,0.616,0.717,-6.178,0.11,0.194,9.81e-05,0.0731,0.72,167.99,4,alternative
+111020,2M5t4tdhZ9W3Eys2HDCjbY,FKA twigs;The Weeknd,On Chill - Rap & RnB,tears in the club,0,196760,True,0.616,0.717,-6.178,0.11,0.194,9.81e-05,0.0731,0.72,167.99,4,trip-hop
+21076,4uPmqqOf9yG0o06JsQsvML,Omah Lay;Justin Bieber,Evergreen,Attention,0,180563,False,0.817,0.72,-8.134,0.0809,0.172,0.000726,0.109,0.384,119.989,4,dancehall
+37022,6Vl9NJ9dJOObO3PcQxIaBM,Anitta,Beautiful Trending Hits 2022,Envolver,0,193805,False,0.813,0.733,-5.417,0.0847,0.15,0.00186,0.0909,0.397,91.988,4,funk
+77019,2vpMzSdFyQNq4gbVGLzdul,Anitta,It's You - Fresh Hits,Envolver,0,193805,False,0.813,0.733,-5.417,0.0847,0.15,0.00186,0.0909,0.397,91.988,4,pagode
+91523,5QuGjFrnKqRnyOVIanRAgP,The Cranberries,Fiesta temática 90s,Zombie,0,307440,False,0.252,0.738,-5.326,0.0446,0.0145,0.000497,0.375,0.256,165.187,4,rock
+103044,25n2QkT5gaxH1Bga2Y866M,John Legend,Weihnachten Playlist,You Deserve It All,0,198626,False,0.524,0.739,-6.681,0.0386,0.215,0.0,0.0636,0.48,83.095,4,soul
+103040,4SpPoKDzu2pzMj0bR638YZ,John Legend,Weihnachtspop 2022,You Deserve It All,0,198626,False,0.524,0.739,-6.681,0.0386,0.215,0.0,0.0636,0.48,83.095,4,soul
+67758,1Y1TUKvMGwtEkJ0hMQFjuf,Alejo;Feid;ROBI,Frescura y Perreo,Pantysito,0,240413,True,0.83,0.739,-5.395,0.0627,0.136,2.11e-06,0.162,0.631,97.993,4,latin
+68416,1wu6GllglOU3TgzUQCUbrD,Alejo;Feid;ROBI,FELIZ CUMPLEAÑOS,Pantysito,0,240413,True,0.83,0.739,-5.395,0.0627,0.136,2.11e-06,0.162,0.631,97.993,4,latino
+88573,1wOpMjWFiYm9xuRvqATOiS,Alejo;Feid;ROBI,El perreo es el futuro,Pantysito,0,240413,True,0.83,0.739,-5.395,0.0627,0.136,2.11e-06,0.162,0.631,97.993,4,reggae
+89538,7bO42EBeTY998hkz8AFxpd,Alejo;Feid;ROBI,Halloween con perreito,Pantysito,0,240413,True,0.83,0.739,-5.395,0.0627,0.136,2.11e-06,0.162,0.631,97.993,4,reggaeton
+51839,43brQXHf3umpF5I7FZRuig,Lizzo,Today's Party Hits,About Damn Time,0,191822,True,0.836,0.743,-6.305,0.0656,0.0995,0.0,0.335,0.722,108.966,4,hip-hop
+51864,0SiKS7N1vUscdccVcPCIHD,Lizzo,It's You - Fresh Hits,About Damn Time,0,191822,True,0.836,0.743,-6.305,0.0656,0.0995,0.0,0.335,0.722,108.966,4,hip-hop
+67623,4el0K1aIjyKIfmXRh5NYRy,"Tito ""El Bambino"";Randy",Halloween 2022 Perreo Vol. 3,Siente El Boom,0,188733,False,0.804,0.745,-5.805,0.0744,0.112,0.0,0.0925,0.512,95.024,4,latin
+68444,6WkB2gQrYHeGfnoNWyYupn,"Tito ""El Bambino"";Randy",Perreo Tenebroso Vol. 2,Siente El Boom,0,188733,False,0.804,0.745,-5.805,0.0744,0.112,0.0,0.0925,0.512,95.024,4,latino
+88549,0MbQNJzr6ysEjjPbL75E4f,"Tito ""El Bambino"";Randy",Última Misión Reggaeton,Siente El Boom,0,188733,False,0.804,0.745,-5.805,0.0744,0.112,0.0,0.0925,0.512,95.024,4,reggae
+89542,6WkB2gQrYHeGfnoNWyYupn,"Tito ""El Bambino"";Randy",Perreo Tenebroso Vol. 2,Siente El Boom,0,188733,False,0.804,0.745,-5.805,0.0744,0.112,0.0,0.0925,0.512,95.024,4,reggaeton
+37089,2fU4JsAoRiOam2azK907yb,Stevie Wonder,Halloween 2022,Superstition - Single Version,0,244826,False,0.637,0.745,-8.607,0.0748,0.0173,0.000554,0.0372,0.859,100.384,4,funk
+57292,3UaQy1ix1NtWK6rh63PVkn,Stevie Wonder,Happy Haunted Halloween Tunes,Superstition - Single Version,0,244826,False,0.637,0.745,-8.607,0.0748,0.0173,0.000554,0.0372,0.859,100.384,4,indie
+103139,22P91O1SzSzDoDDb6ccy8H,Stevie Wonder,Twisted Halloween Hits,Superstition - Single Version,0,244826,False,0.637,0.745,-8.607,0.0748,0.0173,0.000554,0.0372,0.859,100.384,4,soul
+53842,1Tmfs0v6qKcFJi8XOeOukF,Jubël,Pop Hits Now,So Sick,0,177634,False,0.575,0.75,-6.636,0.0589,0.294,0.0,0.138,0.298,99.86,4,house
+15038,69FipCnQCCKgWk9NQGmsQT,Pink Sweat$,US Pop 20s,I Feel Good,0,136058,False,0.803,0.75,-4.67,0.0551,0.0233,3.87e-05,0.045,0.628,106.0,4,chill
+103165,0njcc3OUJ1Qqoxz9fyYctZ,Pink Sweat$,Feeling Good,I Feel Good,0,136058,False,0.803,0.75,-4.67,0.0551,0.0233,3.87e-05,0.045,0.628,106.0,4,soul
+57734,0SIBdhC8RY1dzvAumdeUoC,salem ilese,CHRISTMAS TOP HITS 2022,Marry Christmas,0,162009,False,0.541,0.753,-6.512,0.0511,0.0677,0.0,0.108,0.572,149.743,4,indie
+57739,536QKi6V9mUEgl2aZ5pvCz,salem ilese,pov: you are walking in a winter wonderland,Marry Christmas,0,162009,False,0.541,0.753,-6.512,0.0511,0.0677,0.0,0.108,0.572,149.743,4,indie
+56435,536QKi6V9mUEgl2aZ5pvCz,salem ilese,pov: you are walking in a winter wonderland,Marry Christmas,0,162009,False,0.541,0.753,-6.512,0.0511,0.0677,0.0,0.108,0.572,149.743,4,indie-pop
+56425,2rJ6KeE4v3T4AapiYewwWL,salem ilese,Christmas 2022,Marry Christmas,0,162009,False,0.541,0.753,-6.512,0.0511,0.0677,0.0,0.108,0.572,149.743,4,indie-pop
+78136,1RvhC99ETQs4xJm1ITmiic,Die Draufgänger,Karneval 2022 100%,Cordula Grün,0,190000,False,0.841,0.759,-4.596,0.0575,0.177,0.0,0.0705,0.774,122.976,4,party
+20383,4NR32XsVHm1oN9x8ExR8Yu,Tiësto;Ava Max,Today's Party Hits,The Motto,0,164818,False,0.754,0.763,-4.627,0.0435,0.0301,2.23e-05,0.0901,0.464,117.953,4,dance
+30091,5rQ8KYGO7MetiCgqnn4hby,Tiësto;Ava Max,Dance Dance Dance,The Motto,0,164818,False,0.754,0.763,-4.627,0.0435,0.0301,2.23e-05,0.0901,0.464,117.953,4,edm
+53039,12gp9XggBAImRaqz7ASv9u,Tiësto;Ava Max,Summer Music Festival Hits,The Motto,0,164818,False,0.754,0.763,-4.627,0.0435,0.0301,2.23e-05,0.0901,0.464,117.953,4,house
+110039,5mjTbRn7WG6HsxJI9wUMUL,Tiësto;Ava Max,Objectif Running : Dance,The Motto,0,164818,False,0.754,0.763,-4.627,0.0435,0.0301,2.23e-05,0.0901,0.464,117.953,4,trance
+30445,0e3yTHRm6szezE58oTf81t,Clean Bandit;A7S,Baddest of Them All,Everything but You,0,198014,False,0.679,0.764,-5.301,0.0391,0.031,9.05e-06,0.0951,0.471,124.977,4,edm
+37175,6Hos4orKluXCWp7j06fLQn,Clean Bandit;A7S,Pop Hits Now,Everything but You,0,198014,False,0.679,0.764,-5.301,0.0391,0.031,9.05e-06,0.0951,0.471,124.977,4,funk
+53435,0yxKN5WPYU5N5CZRA9PbB4,Clean Bandit;A7S,WORKOUT MOTIVATION,Everything but You,0,198014,False,0.679,0.764,-5.301,0.0391,0.031,9.05e-06,0.0951,0.471,124.977,4,house
+91822,1WPQHQXez6OiPp080ZSPBD,The Goo Goo Dolls,Christmas Time,Christmas All Over Again,0,259798,False,0.457,0.768,-7.484,0.0316,0.000357,0.0098,0.141,0.554,133.788,4,rock
+51846,6d9PUQV8z4XFFot8HVlrBY,Lizzo,Upbeat Pop,2 Be Loved (Am I Ready),0,187107,False,0.721,0.769,-4.111,0.105,0.0922,0.0,0.0817,0.915,155.932,4,hip-hop
+103363,0GKhaWM5x7m2N7kE7WpcWt,The Jackson 5,Christmas Faves 2022,Santa Claus Is Coming To Town,0,144080,False,0.691,0.776,-4.177,0.0341,0.458,1.68e-05,0.33,0.961,146.861,4,soul
+103373,4hA4vowf8u8fhA2KlxBJIa,The Jackson 5,Christmas Playlist 2022,Santa Claus Is Coming To Town,0,144080,False,0.691,0.776,-4.177,0.0341,0.458,1.68e-05,0.33,0.961,146.861,4,soul
+103391,6a74CgLFPMBN0RhLzL82tL,The Jackson 5,Christmas Classics,Santa Claus Is Coming To Town,0,144080,False,0.691,0.776,-4.177,0.0341,0.458,1.68e-05,0.33,0.961,146.861,4,soul
+95006,7fLj7XlY3jHQyqucElDGUq,Frankie Ruiz,Era Salsa para Bailar,Tú Con Él,0,302093,False,0.823,0.779,-5.943,0.0492,0.201,0.00019,0.175,0.96,95.484,4,salsa
+19176,5uvkJAiyyxXWGF0JPMxXjz,Tim McGraw,Christmas Dinner 2022,Christmas All Over The World,0,166168,False,0.565,0.782,-5.098,0.0305,0.0341,0.0,0.0782,0.798,126.904,4,country
+53574,4OSIb3Fj9b8h38iOoBoAK9,Nathan Dawe;Ella Henderson,Hit After Hit,21 Reasons,0,155253,False,0.621,0.785,-4.499,0.11,0.0165,5.92e-06,0.0512,0.779,123.96,4,house
+53570,0CaXasBTOik4qmIiAQsEZK,Nathan Dawe;Ella Henderson,Back to School!,21 Reasons,0,155253,False,0.621,0.785,-4.499,0.11,0.0165,5.92e-06,0.0512,0.779,123.96,4,house
+53569,7aOy14i2bhauyZl4r3TcP2,Nathan Dawe;Ella Henderson,All That Really Matters - Just Hits,21 Reasons,0,155253,False,0.621,0.785,-4.499,0.11,0.0165,5.92e-06,0.0512,0.779,123.96,4,house
+3592,0jdPUGPxzjKB3A4qqflyMH,The Knocks;Rivers Cuomo;Royal & the Serpent,Here to Forever - All New Indie,Sound the Alarm,0,171587,False,0.688,0.788,-3.064,0.0436,0.0164,0.000306,0.541,0.774,101.006,4,alternative
+25074,0YwBrYaPYYc8e18ZYkqhJc,The Knocks;Rivers Cuomo;Royal & the Serpent,Am I Ready - Pop Night Out,Sound the Alarm,0,171587,False,0.688,0.788,-3.064,0.0436,0.0164,0.000306,0.541,0.774,101.006,4,disco
+53996,382oL7ul0X7UKEsyRXpvAB,The Knocks;Rivers Cuomo;Royal & the Serpent,20's Rock,Sound the Alarm,0,171587,False,0.688,0.788,-3.064,0.0436,0.0164,0.000306,0.541,0.774,101.006,4,house
+56645,382oL7ul0X7UKEsyRXpvAB,The Knocks;Rivers Cuomo;Royal & the Serpent,20's Rock,Sound the Alarm,0,171587,False,0.688,0.788,-3.064,0.0436,0.0164,0.000306,0.541,0.774,101.006,4,indie-pop
+67652,7wTAn1GYgjjn9fv9cZNWI3,Mariah Angeliq;Guaynaa,Halloween con perreito,Taxi,0,173653,False,0.727,0.796,-3.918,0.125,0.0627,0.0,0.166,0.701,180.069,4,latin
+68499,3sdYKmzjWTanqTJuyf0GAf,Mariah Angeliq;Guaynaa,Noche de Halloween Latino,Taxi,0,173653,False,0.727,0.796,-3.918,0.125,0.0627,0.0,0.166,0.701,180.069,4,latino
+8748,1E16CnSPStnHdNLEO7cj8j,Tinariwen,Best Afrodance Tunes,Cler Achel,0,267533,False,0.685,0.797,-5.372,0.0558,0.506,0.00935,0.069,0.926,98.612,4,blues
+45091,3xwTmeS0swuFXpyEoEUjNr,Tinariwen,Afropop 2022,Cler Achel,0,267533,False,0.685,0.797,-5.372,0.0558,0.506,0.00935,0.069,0.926,98.612,4,guitar
+53893,10vntsDhfvE8NtalR8k1Bm,Surf Mesa;Emilee,Artsy & Colourful,ily (i love you baby),0,181071,False,0.667,0.799,-7.318,0.0812,0.0589,0.0119,0.362,0.288,112.054,4,house
+34495,7sV7mOO4k0RNz9Un8d8OWg,The Monkees,Christmas Music - Holiday Hits,Unwrap You at Christmas,0,212080,False,0.671,0.801,-3.366,0.0322,0.247,0.0,0.328,0.473,127.994,4,folk
+84142,3XmIlmYem8DGp7aorcpBay,The Monkees,Perfect Christmas Hits,Unwrap You at Christmas,0,212080,False,0.671,0.801,-3.366,0.0322,0.247,0.0,0.328,0.473,127.994,4,psych-rock
+99595,3tbGJmb4ZiD6CKbkJbwyKH,The Monkees,Christmas Time,Unwrap You at Christmas,0,212080,False,0.671,0.801,-3.366,0.0322,0.247,0.0,0.328,0.473,127.994,4,singer-songwriter
+102594,3tbGJmb4ZiD6CKbkJbwyKH,The Monkees,Christmas Time,Unwrap You at Christmas,0,212080,False,0.671,0.801,-3.366,0.0322,0.247,0.0,0.328,0.473,127.994,4,songwriter
+20744,2iZH4DDQr3vpfCLHqbxClj,Robin Schulz;David Guetta,Today's Party Hits,On Repeat,0,190217,False,0.609,0.801,-8.483,0.0694,0.0246,0.00255,0.37,0.202,122.958,4,dance
+23037,5JDmVwlWTzbwpxm1Qx9oFh,Robin Schulz;David Guetta,From The Ashes - New Beats,On Repeat,0,190217,False,0.609,0.801,-8.483,0.0694,0.0246,0.00255,0.37,0.202,122.958,4,deep-house
+30187,0qXBEvyDJ9bSPKRXJ0pMxy,Robin Schulz;David Guetta,Pop Hits Now,On Repeat,0,190217,False,0.609,0.801,-8.483,0.0694,0.0246,0.00255,0.37,0.202,122.958,4,edm
+39015,1SacjiJXVYiv3ydALqEchb,Robin Schulz;David Guetta,"#Multiverse, If the Multiverse Is Real",On Repeat,0,190217,False,0.609,0.801,-8.483,0.0694,0.0246,0.00255,0.37,0.202,122.958,4,german
+53144,7aIEY85BK4Y9LQwT0MXz2V,Robin Schulz;David Guetta,EDM Hits,On Repeat,0,190217,False,0.609,0.801,-8.483,0.0694,0.0246,0.00255,0.37,0.202,122.958,4,house
+87154,45e6OL7Aixm8fxWpBAJ7DY,22Gz;Kodak Black,Tic Tac - Just Rap,Up n Stuck,0,193970,True,0.869,0.802,-3.37,0.504,0.0978,0.0,0.0998,0.346,140.89,4,r-n-b
+20542,6sCtkVwY1hRM1IY8BI1arV,Avicii,OO's Music Grandi Successi,Wake Me Up - Radio Edit,0,246813,False,0.524,0.807,-4.16,0.0579,0.00415,0.000834,0.212,0.62,124.127,4,dance
+30139,6sCtkVwY1hRM1IY8BI1arV,Avicii,OO's Music Grandi Successi,Wake Me Up - Radio Edit,0,246813,False,0.524,0.807,-4.16,0.0579,0.00415,0.000834,0.212,0.62,124.127,4,edm
+8386,0qCNtI1HdiTlqYbaYySV8S,Solomon Burke,Merry Christmas,Presents for Christmas,0,193493,False,0.594,0.815,-9.223,0.216,0.668,0.0,0.324,0.54,114.316,4,blues
+37994,7fJCh476dJ84H0WzUeOjXE,Solomon Burke,Perfect Christmas Hits,Presents for Christmas,0,193493,False,0.594,0.815,-9.223,0.216,0.668,0.0,0.324,0.54,114.316,4,funk
+103776,2ABPD3Zs7YHFKVJMxf82PB,Solomon Burke,Holly Jolly Christmas,Presents for Christmas,0,193493,False,0.594,0.815,-9.223,0.216,0.668,0.0,0.324,0.54,114.316,4,soul
+67125,3U6GNFtiY6Uql2KzR0dvNw,J Balvin;Maria Becerra,FELIZ CUMPLEAÑOS,Qué Más Pues?,1,217361,False,0.904,0.817,-3.956,0.0871,0.0254,0.000141,0.232,0.753,101.988,4,latin
+68080,6I9u1BUOMgesqngW1QdwtS,J Balvin;Maria Becerra,Bájale como 7500,Qué Más Pues?,1,217361,False,0.904,0.817,-3.956,0.0871,0.0254,0.000141,0.232,0.753,101.988,4,latino
+20171,6dWxyTewMjC84vhto1881v,Lady Gaga,Best Of Karneval,Poker Face,0,238906,False,0.851,0.818,-4.637,0.0789,0.112,2.94e-06,0.0945,0.808,119.006,4,dance
+30288,2aE2TDB0qfLJSY5wS8SGhU,Swedish House Mafia;John Martin,10's Music Grandi Successi,Don't You Worry Child - Radio Edit,0,211360,False,0.609,0.83,-3.229,0.0552,0.117,0.0,0.18,0.478,128.986,4,edm
+31191,2aE2TDB0qfLJSY5wS8SGhU,Swedish House Mafia;John Martin,10's Music Grandi Successi,Don't You Worry Child - Radio Edit,0,211360,False,0.609,0.83,-3.229,0.0552,0.117,0.0,0.18,0.478,128.986,4,electro
+20634,1YMTuiGLg5zP8V6fWL2WVL,Ava Max,Pop Brandneu,Maybe You're the Problem,0,190318,False,0.53,0.835,-3.69,0.11,0.0453,0.0,0.0637,0.471,166.02,4,dance
+34227,0m3TWCaiuyy3odkc8ZCOl5,Tom Petty and the Heartbreakers,Holiday Anthems 2022,Christmas All Over Again,0,253626,False,0.44,0.838,-6.196,0.0423,0.0956,0.0,0.473,0.619,138.908,4,folk
+34246,6S70OrI0CsYO0nD1l6qvDP,Tom Petty and the Heartbreakers,All I Want For Christmas Is You,Christmas All Over Again,0,253626,False,0.44,0.838,-6.196,0.0423,0.0956,0.0,0.473,0.619,138.908,4,folk
+91997,0sL9GKpJKZRngHncF2r0Rg,Tom Petty and the Heartbreakers,Home At Christmas,Christmas All Over Again,0,253626,False,0.44,0.838,-6.196,0.0423,0.0956,0.0,0.473,0.619,138.908,4,rock
+99342,5Xpn8seuohodh7p0DFk13V,Tom Petty and the Heartbreakers,Rockin' Around The Christmas Tree 2022,Christmas All Over Again,0,253626,False,0.44,0.838,-6.196,0.0423,0.0956,0.0,0.473,0.619,138.908,4,singer-songwriter
+102338,3pHI91Yzcv8MXmtNqAElpb,Tom Petty and the Heartbreakers,Christmas Playlist 2022,Christmas All Over Again,0,253626,False,0.44,0.838,-6.196,0.0423,0.0956,0.0,0.473,0.619,138.908,4,songwriter
+20388,4e5s77PZaf4ulqs5bFeik9,Tiësto;Charli XCX,Brandneu Dance,Hot in It,0,129817,False,0.748,0.841,-5.08,0.177,0.00445,1.33e-06,0.0413,0.717,123.045,4,dance
+30078,5IGsV7tGijVH9R7KtneqKn,Tiësto;Charli XCX,Daily Pop Mix,Hot in It,0,129817,False,0.748,0.841,-5.08,0.177,0.00445,1.33e-06,0.0413,0.717,123.045,4,edm
+53023,3BbzQ0VuM1QTMOiqva7VYe,Tiësto;Charli XCX,Hit After Hit,Hot in It,0,129817,False,0.748,0.841,-5.08,0.177,0.00445,1.33e-06,0.0413,0.717,123.045,4,house
+110014,5IGsV7tGijVH9R7KtneqKn,Tiësto;Charli XCX,Daily Pop Mix,Hot in It,0,129817,False,0.748,0.841,-5.08,0.177,0.00445,1.33e-06,0.0413,0.717,123.045,4,trance
+2227,0hPjv7ShJQkoZM8JiBnTqa,Jimmy Eat World,Rock n Roll Christmas,Last Christmas,0,267493,False,0.532,0.842,-6.152,0.0403,0.00131,1.2e-06,0.33,0.715,126.042,4,alt-rock
+3426,6uYSPBL3Y2shKlqH52Rw4l,Jimmy Eat World,Emo Christmas 2022,Last Christmas,0,267493,False,0.532,0.842,-6.152,0.0403,0.00131,1.2e-06,0.33,0.715,126.042,4,alternative
+33097,2S9yxu8MLsL0CXoSdGuues,Jimmy Eat World,Alternative Christmas 2022,Last Christmas,0,267493,False,0.532,0.842,-6.152,0.0403,0.00131,1.2e-06,0.33,0.715,126.042,4,emo
+82017,0hPjv7ShJQkoZM8JiBnTqa,Jimmy Eat World,Rock n Roll Christmas,Last Christmas,0,267493,False,0.532,0.842,-6.152,0.0403,0.00131,1.2e-06,0.33,0.715,126.042,4,power-pop
+86135,6uYSPBL3Y2shKlqH52Rw4l,Jimmy Eat World,Emo Christmas 2022,Last Christmas,0,267493,False,0.532,0.842,-6.152,0.0403,0.00131,1.2e-06,0.33,0.715,126.042,4,punk
+85073,6uYSPBL3Y2shKlqH52Rw4l,Jimmy Eat World,Emo Christmas 2022,Last Christmas,0,267493,False,0.532,0.842,-6.152,0.0403,0.00131,1.2e-06,0.33,0.715,126.042,4,punk-rock
+67212,7041VLZqpEKPkK73N7WNbE,Jhayco;Anuel AA,Verano en Junio,Ley Seca,0,263666,False,0.759,0.843,-3.718,0.0913,0.127,0.0,0.114,0.56,105.016,4,latin
+68241,0M8c4ZbBMro9S2G65ir83R,Jhayco;Anuel AA,Homecoming Latin Party,Ley Seca,0,263666,False,0.759,0.843,-3.718,0.0913,0.127,0.0,0.114,0.56,105.016,4,latino
+88279,7zubR9uYAWjb5KPZTMm85e,Jhayco;Anuel AA,El perreo es el futuro,Ley Seca,0,263666,False,0.759,0.843,-3.718,0.0913,0.127,0.0,0.114,0.56,105.016,4,reggae
+89290,48VdMOHlnUZr3k0NDqza3r,Jhayco;Anuel AA,Halloween con perreito,Ley Seca,0,263666,False,0.759,0.843,-3.718,0.0913,0.127,0.0,0.114,0.56,105.016,4,reggaeton
+2038,2cwOhw3d0uIsR4krTsrLwF,The Killers;Ryan Pardey,Rock n Roll Christmas,Don't Shoot Me Santa,0,245106,False,0.588,0.847,-4.164,0.0705,0.0601,0.0,0.307,0.662,120.041,4,alt-rock
+3039,1gu8VJ0d28EsXtcgKzJcSl,The Killers;Ryan Pardey,Christmas Rock 2022,Don't Shoot Me Santa,0,245106,False,0.588,0.847,-4.164,0.0705,0.0601,0.0,0.307,0.662,120.041,4,alternative
+20997,2S3G868WlDZNtfwZiDKPRx,The Killers;Ryan Pardey,Alternative Christmas 2022,Don't Shoot Me Santa,0,245106,False,0.588,0.847,-4.164,0.0705,0.0601,0.0,0.307,0.662,120.041,4,dance
+91248,1gu8VJ0d28EsXtcgKzJcSl,The Killers;Ryan Pardey,Christmas Rock 2022,Don't Shoot Me Santa,0,245106,False,0.588,0.847,-4.164,0.0705,0.0601,0.0,0.307,0.662,120.041,4,rock
+53686,2L8j15CcRjHzDhy58wJu6Y,NEIKED;Anne-Marie;Latto,Hits à suivre 2022,I Just Called,0,150560,False,0.626,0.849,-3.662,0.123,0.0732,0.0,0.593,0.898,138.997,4,house
+51794,2o3x3qG1XgKutD5IZPTPgA,Justin Quiles;Robin Schulz,Brandneu Dance,AEIOU,0,161880,False,0.689,0.856,-3.394,0.0813,0.0493,0.0,0.232,0.706,126.108,4,hip-hop
+67290,2ff0sgVBZ1DYnfdXkW5tkS,Justin Quiles;Robin Schulz,From The Ashes - New Beats,AEIOU,0,161880,False,0.689,0.856,-3.394,0.0813,0.0493,0.0,0.232,0.706,126.108,4,latin
+68276,2L44djRjs3foqu3J6GSHeg,Justin Quiles;Robin Schulz,Daily Pop Mix,AEIOU,0,161880,False,0.689,0.856,-3.394,0.0813,0.0493,0.0,0.232,0.706,126.108,4,latino
+88357,2gmGtBi6DOdEGgd3G9XHhm,Justin Quiles;Robin Schulz,Pop n' Fresh,AEIOU,0,161880,False,0.689,0.856,-3.394,0.0813,0.0493,0.0,0.232,0.706,126.108,4,reggae
+89386,4ipbXq1KBTFNCh6R9bAleD,Justin Quiles;Robin Schulz,WORKOUT MOTIVATION,AEIOU,0,161880,False,0.689,0.856,-3.394,0.0813,0.0493,0.0,0.232,0.706,126.108,4,reggaeton
+20883,1L98L13cxNysGgFshbF617,Becky Hill;Joel Corry,Brandneu Dance,HISTORY,0,176609,True,0.674,0.86,-3.318,0.0369,0.155,3.21e-06,0.359,0.771,122.975,4,dance
+30283,1b876Botb2h1Mf5L37anDJ,Becky Hill;Joel Corry,Daily Pop Mix,HISTORY,0,176609,True,0.674,0.86,-3.318,0.0369,0.155,3.21e-06,0.359,0.771,122.975,4,edm
+53165,1L98L13cxNysGgFshbF617,Becky Hill;Joel Corry,Brandneu Dance,HISTORY,0,176609,True,0.674,0.86,-3.318,0.0369,0.155,3.21e-06,0.359,0.771,122.975,4,house
+30438,0JwtmsNI76noYakct1EhhN,Galantis,From The Ashes - New Beats,1x1,0,139435,False,0.887,0.863,-4.2,0.0697,0.0176,0.0594,0.288,0.517,120.028,4,edm
+31483,4HVRP4l0lOnq0Lexs7EmBu,Galantis,Brandneu Dance,1x1,0,139435,False,0.887,0.863,-4.2,0.0697,0.0176,0.0594,0.288,0.517,120.028,4,electro
+53286,0JwtmsNI76noYakct1EhhN,Galantis,From The Ashes - New Beats,1x1,0,139435,False,0.887,0.863,-4.2,0.0697,0.0176,0.0594,0.288,0.517,120.028,4,house
+2267,1Uu1dI6OcKWuMLLv8ki3lN,Smash Mouth,Workout Hits 2023,All Star,0,200373,False,0.731,0.867,-5.881,0.032,0.0394,0.0,0.0861,0.776,104.02,4,alt-rock
+3414,1Uu1dI6OcKWuMLLv8ki3lN,Smash Mouth,Workout Hits 2023,All Star,0,200373,False,0.731,0.867,-5.881,0.032,0.0394,0.0,0.0861,0.776,104.02,4,alternative
+51948,2tkuLIkwcEBPr6PICqAaf8,Don Omar,Feliz Cumpleaños con Perreo,Guaya Guaya,0,194013,False,0.787,0.872,-2.117,0.143,0.0067,0.000193,0.136,0.696,92.025,4,hip-hop
+67315,1YxJ0LwE6HQM8COctgjZVo,Don Omar,Perreo Tenebroso Vol. 4,Guaya Guaya,0,194013,False,0.787,0.872,-2.117,0.143,0.0067,0.000193,0.136,0.696,92.025,4,latin
+68293,2tkuLIkwcEBPr6PICqAaf8,Don Omar,Feliz Cumpleaños con Perreo,Guaya Guaya,0,194013,False,0.787,0.872,-2.117,0.143,0.0067,0.000193,0.136,0.696,92.025,4,latino
+88433,2tkuLIkwcEBPr6PICqAaf8,Don Omar,Feliz Cumpleaños con Perreo,Guaya Guaya,0,194013,False,0.787,0.872,-2.117,0.143,0.0067,0.000193,0.136,0.696,92.025,4,reggae
+89380,6TzrZUKi2XFvGIBzqMGR7e,Don Omar,Esto me suena a Farra,Guaya Guaya,0,194013,False,0.787,0.872,-2.117,0.143,0.0067,0.000193,0.136,0.696,92.025,4,reggaeton
+3178,1SgyVVPmNDMPoZyGgCvMsa,GAYLE;The Wild,Trending Pop,abc - The Wild Remix,0,182903,False,0.693,0.874,-3.923,0.0693,0.034,8.33e-06,0.289,0.647,123.979,5,alternative
+20985,6GkAs8oZIgPjr0GpqA2JSt,Joel Corry;MNEK,Today's Party Hits,Head & Heart,0,166028,False,0.734,0.874,-3.158,0.0662,0.168,1.14e-05,0.0489,0.905,122.953,4,dance
+30343,7ygaeSuQR2Pn7ahgNUxslH,Joel Corry;MNEK,Feeling Good,Head & Heart,0,166028,False,0.734,0.874,-3.158,0.0662,0.168,1.14e-05,0.0489,0.905,122.953,4,edm
+53334,7ygaeSuQR2Pn7ahgNUxslH,Joel Corry;MNEK,Feeling Good,Head & Heart,0,166028,False,0.734,0.874,-3.158,0.0662,0.168,1.14e-05,0.0489,0.905,122.953,4,house
+8211,0FJ5C03igALJMeicHGorCo,Chuck Berry,Christmas Best Hits 2022,Run Rudolph Run,0,162897,False,0.647,0.876,-5.662,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,blues
+8164,03MW3H9B2P7tgpvzG3klNI,Chuck Berry,pov: you hear the bells jingle,Run Rudolph Run,0,162897,False,0.647,0.876,-5.662,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,blues
+8209,6CGmcIW8lElAxYJb3dETOS,Chuck Berry,Xmas Classics 2022,Run Rudolph Run,0,162897,False,0.647,0.876,-5.662,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,blues
+8163,1S4rxDloMtAduogKeiJZmR,Chuck Berry,CHRISTMAS TOP HITS 2022,Run Rudolph Run,0,162897,False,0.647,0.876,-5.662,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,blues
+87071,1B7GdW07UqOJzgZDc8T3ec,Chuck Berry,Silent Night,Run Rudolph Run,0,162897,False,0.647,0.876,-5.662,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,r-n-b
+87080,3IUpuyEMIgt4GvEZ2TqERF,Chuck Berry,Jingle Bell Rock 2022,Run Rudolph Run,0,162897,False,0.647,0.876,-5.662,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,r-n-b
+87088,0UfbRLBZi1780FbGc07dg0,Chuck Berry,Home At Christmas,Run Rudolph Run,0,162897,False,0.647,0.876,-5.662,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,r-n-b
+87087,6ceypJqP0dr2LDpeZpSaXR,Chuck Berry,Weihnachten Musik,Run Rudolph Run,0,162897,False,0.647,0.876,-5.662,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,r-n-b
+90043,6ceypJqP0dr2LDpeZpSaXR,Chuck Berry,Weihnachten Musik,Run Rudolph Run,0,162897,False,0.647,0.876,-5.662,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rock-n-roll
+90026,0UfbRLBZi1780FbGc07dg0,Chuck Berry,Home At Christmas,Run Rudolph Run,0,162897,False,0.647,0.876,-5.662,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rock-n-roll
+90025,3RXAcz7Sa6JDZSxcH1EEQ6,Chuck Berry,Best Christmas Songs 2022 | For under the Mistletoe,Run Rudolph Run,0,162897,False,0.647,0.876,-5.662,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rock-n-roll
+90045,4vJrtcgQoULwkPyFkXNYCx,Chuck Berry,pov: you bake cookies,Run Rudolph Run,0,162897,False,0.647,0.876,-5.662,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rock-n-roll
+92029,1P5YSdlW0yDkMTxiLGDldP,Chuck Berry,Christmas Faves 2022,Run Rudolph Run,0,162897,False,0.647,0.876,-5.662,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rockabilly
+92015,1ZCreSfHLOgtmC85t9nNsI,Chuck Berry,12 Days of Christmas 2022,Run Rudolph Run,0,162897,False,0.647,0.876,-5.662,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rockabilly
+92024,1B7GdW07UqOJzgZDc8T3ec,Chuck Berry,Silent Night,Run Rudolph Run,0,162897,False,0.647,0.876,-5.662,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rockabilly
+92034,3jjT8uAXdwIgXCbRjfnsSE,Chuck Berry,Christmas Dinner 2022,Run Rudolph Run,0,162897,False,0.647,0.876,-5.662,0.185,0.881,3.59e-05,0.26,0.949,151.925,4,rockabilly
+57676,2CjnXerL6o6fgsV72yYwBG,The Rare Occasions,Baddest of Them All,Notion,0,195120,False,0.309,0.883,-3.825,0.0808,0.0673,0.00111,0.0849,0.312,159.488,4,indie
+20771,2M4AqxOWmUWaSRP7E4TMDm,Jason Derulo;Kodak Black,20's R'n'B,Slidin',0,156300,True,0.695,0.884,-1.953,0.172,0.106,0.0,0.134,0.803,100.088,4,dance
+20769,2ccbaU2kyfRbCIBYSt85Zm,Jason Derulo;Kodak Black,Back to School!,Slidin',0,156300,True,0.695,0.884,-1.953,0.172,0.106,0.0,0.134,0.803,100.088,4,dance
+67567,4rR6TjxYfYJfIlj7LkvNqz,Sofía Reyes;Jason Derulo;De La Ghetto,Upbeat 20's,"1, 2, 3",0,201526,False,0.792,0.895,-3.112,0.0587,0.165,0.0,0.0501,0.793,94.968,4,latin
+68168,5bkpKxDCCTpeW1v2JcFTQ7,Daddy Yankee,Perreo en Halloween,RUMBATÓN,2,248768,False,0.685,0.909,-4.034,0.0396,0.0471,0.0,0.35,0.922,95.004,4,latino
+19226,4GKcUAbqU3gJE5TVgu8ASg,Cole Swindell,Country Road Songs,She Had Me at Heads Carolina,0,206106,False,0.607,0.912,-3.449,0.0611,0.124,0.0,0.332,0.722,134.944,4,country
+57489,4yv0B8k4L6QCOlxojOgH9c,Cafuné,New Pop Classics,Tek It,0,191823,False,0.423,0.913,-5.354,0.0655,6.53e-05,0.0,0.269,0.596,146.995,4,indie
+107149,5nsLVC5g1r2OqdROh7BlOm,Oingo Boingo,Halloween Party 2022,Dead Man's Party,0,378733,False,0.567,0.92,-5.669,0.0483,0.468,4.04e-05,0.28,0.9,161.004,4,synth-pop
+31325,7zCdNmSncqbjNKQAyHxmuh,Charli XCX,Hit After Hit,Used to Know Me,0,145840,False,0.711,0.931,-4.042,0.0323,0.0914,4.41e-05,0.0892,0.775,118.009,4,electro
+19776,3PKmssVlLJD7uwIgbWdSPg,Morgan Evans,Hideaway - New Boots,Country Outta My Girl,0,202613,False,0.448,0.932,-4.424,0.0976,0.0174,0.0,0.347,0.709,187.813,4,country
+3108,24TdORdiwpuE1EH7fh1fNQ,Evanescence,Halloween Scary Party,Bring Me To Life,0,235893,False,0.318,0.943,-3.188,0.107,0.00721,2.06e-06,0.242,0.298,189.985,4,alternative
+71119,5SqrY9AWeRXqwgLCnLO2A0,Evanescence,Halloween 2022,Bring Me To Life,0,235893,False,0.318,0.943,-3.188,0.107,0.00721,2.06e-06,0.242,0.298,189.985,4,metal
+31328,42zR7krVhRar7oox6BbONX,Charli XCX;Rina Sawayama,EDM Hits,Beg for You,0,168053,False,0.788,0.945,-5.091,0.0599,0.223,2.97e-06,0.115,0.466,128.036,4,electro
+31322,7eVu6eHWxdnQwCpTC2o3ZN,Charli XCX;Rina Sawayama,Hit After Hit,Beg for You,0,168053,False,0.788,0.945,-5.091,0.0599,0.223,2.97e-06,0.115,0.466,128.036,4,electro
+2292,5vp6CNekMfEWWi8FtqUlKx,Rob Zombie,Halloween Spooky Party 2022,Living Dead Girl,0,201400,False,0.518,0.948,-5.579,0.0676,0.00512,0.0996,0.228,0.548,103.025,4,alt-rock
+3487,1nQYbtP8RwXxA7DwW6Kn38,Rob Zombie,Twisted Halloween Hits,Living Dead Girl,0,201400,False,0.518,0.948,-5.579,0.0676,0.00512,0.0996,0.228,0.548,103.025,4,alternative
+47082,4vvCo9Lxak9UqHVOyFmjFT,Rob Zombie,Pumpkin Patch Hits,Living Dead Girl,0,201400,False,0.518,0.948,-5.579,0.0676,0.00512,0.0996,0.228,0.548,103.025,4,hard-rock
+58032,1nQYbtP8RwXxA7DwW6Kn38,Rob Zombie,Twisted Halloween Hits,Living Dead Girl,0,201400,False,0.518,0.948,-5.579,0.0676,0.00512,0.0996,0.228,0.548,103.025,4,industrial
+71235,6AY2zdaF4LJykDhGGE4nv6,Rob Zombie,Helloween Party,Living Dead Girl,0,201400,False,0.518,0.948,-5.579,0.0676,0.00512,0.0996,0.228,0.548,103.025,4,metal
+3239,36NQtTNiBpURnyDasqNsCf,Shinedown,Top of the Rock,Planet Zero,0,222738,False,0.416,0.964,-2.967,0.112,2.35e-05,0.000875,0.473,0.212,157.925,4,alternative
+44044,4bh9zPGpEX1yl9Do6rkhHr,Shinedown,Rock Brandneu,Planet Zero,0,222738,False,0.416,0.964,-2.967,0.112,2.35e-05,0.000875,0.473,0.212,157.925,4,grunge
+71076,4bh9zPGpEX1yl9Do6rkhHr,Shinedown,Rock Brandneu,Planet Zero,0,222738,False,0.416,0.964,-2.967,0.112,2.35e-05,0.000875,0.473,0.212,157.925,4,metal
+78027,2fuoz7vNgoMOzZmU9078T5,Mia Julia;Lorenz Büffel;Malle Anja,Karneval 2022 100%,Der Zug hat keine Bremse - Mallorcastyle Edition,0,207301,False,0.795,0.974,-2.418,0.0778,0.029,0.0,0.611,0.935,137.957,4,party
+2296,2i0hWBMyrOXnGv3jWji0Lw,Rob Zombie,Halloween Spooky Party 2022,Dragula,0,222893,False,0.579,0.978,-5.327,0.0548,8.55e-05,0.000141,0.0955,0.558,125.073,4,alt-rock
+3494,2AMjuIoFxAYnQ5PWrRceOP,Rob Zombie,Twisted Halloween Hits,Dragula,0,222893,False,0.579,0.978,-5.327,0.0548,8.55e-05,0.000141,0.0955,0.558,125.073,4,alternative
+47096,7y5uK11sbFNiNEafUvntSL,Rob Zombie,Halloween Scary Party,Dragula,0,222893,False,0.579,0.978,-5.327,0.0548,8.55e-05,0.000141,0.0955,0.558,125.073,4,hard-rock
+58024,7uhmQXCmglHzUEUA0ch9mh,Rob Zombie,Halloween Party 2022,Dragula,0,222893,False,0.579,0.978,-5.327,0.0548,8.55e-05,0.000141,0.0955,0.558,125.073,4,industrial
+71185,0X2rK2dB3aEGw1KOK0ioAL,Rob Zombie,Pumpkin Patch Hits,Dragula,0,222893,False,0.579,0.978,-5.327,0.0548,8.55e-05,0.000141,0.0955,0.558,125.073,4,metal
