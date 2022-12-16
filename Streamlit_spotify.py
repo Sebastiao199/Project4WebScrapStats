@@ -78,7 +78,7 @@ selected = option_menu(None, ["Top's", "Musics"],
 if selected == "Top's":
 
     st.markdown("<h2 style='text-align: left; color: black;'>Tops</h2>", unsafe_allow_html=True)
-
+    st.header('Are danceability and energy related to the popularity of songs?')
     col1, col2 = st.columns(2)
 
     with col1:
@@ -86,11 +86,11 @@ if selected == "Top's":
                     st.write("""
         This information is related musics in Spotify two months ago""")
             
-            image = Image.open(r"C:/Users/luisa/OneDrive/Ambiente de Trabalho/Luísa/WCS/Porject 4/The beatles.jpeg")
-            image2 = Image.open(r"C:/Users/luisa/OneDrive/Ambiente de Trabalho/Luísa/WCS/Porject 4/likind park.jpeg")
-            image3=  Image.open(r"C:/Users/luisa/OneDrive/Ambiente de Trabalho/Luísa/WCS/Porject 4/bts.jpeg")
-            image4=  Image.open(r"C:/Users/luisa/OneDrive/Ambiente de Trabalho/Luísa/WCS/Porject 4/prateed kuhad.jpeg")
-            image5=  Image.open(r"C:/Users/luisa/OneDrive/Ambiente de Trabalho/Luísa/WCS/Porject 4/elvis.jpeg")
+            image = Image.open("Images/The beatles.jpeg")
+            image2 = Image.open("Images/likind park.jpeg")
+            image3=  Image.open("Images/bts.jpeg")
+            image4=  Image.open("Images/prateed kuhad.jpeg")
+            image5=  Image.open("Images/elvis.jpeg")
 
             st.image([image, image2, image3, image4,image5], width=200)
 
@@ -167,11 +167,11 @@ if selected == "Top's":
                     st.write("""
         This information is related to the top 50 songs in Spotify.
     """)
-            image6 = Image.open(r"C:/Users/luisa/OneDrive/Ambiente de Trabalho/Luísa/WCS/Porject 4/bad bunny.jpeg")
-            image7 = Image.open(r"C:/Users/luisa/OneDrive/Ambiente de Trabalho/Luísa/WCS/Porject 4/manuel turizo.jpeg")
-            image8=  Image.open(r"C:/Users/luisa/OneDrive/Ambiente de Trabalho/Luísa/WCS/Porject 4/the neighbourhood.jpeg")
-            image9=  Image.open(r"C:/Users/luisa/OneDrive/Ambiente de Trabalho/Luísa/WCS/Porject 4/ozuna.jpeg")
-            image10= Image.open(r"C:/Users/luisa/OneDrive/Ambiente de Trabalho/Luísa/WCS/Porject 4/david guetta.jpeg")
+            image6 = Image.open(r"Images/bad bunny.jpeg")
+            image7 = Image.open(r"Images/manuel turizo.jpeg")
+            image8=  Image.open(r"Images/the neighbourhood.jpeg")
+            image9=  Image.open(r"Images/ozuna.jpeg")
+            image10= Image.open(r"Images/david guetta.jpeg")
 
             st.image([image6, image7, image8, image9,image10], width=195)
              
