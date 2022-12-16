@@ -59,9 +59,25 @@ top50_df_music_energy_toparts_final = top50_df_music_energy_toparts.sort_values(
 
 df_lyrics = pd.read_pickle("spotify_with_lyrics.pkl")
 
+# Images 
 
+image = Image.open("Images/The beatles.jpeg")
+image2 = Image.open("Images/likind park.jpeg")
+image3=  Image.open("Images/bts.jpeg")
+image4=  Image.open("Images/prateed kuhad.jpeg")
+image5=  Image.open("Images/elvis.jpeg")
+
+image6 = Image.open("Images/bad bunny.jpeg")
+image7 = Image.open("Images/manuel turizo.jpeg")
+image8=  Image.open("Images/the neighbourhood.jpeg")
+image9=  Image.open("Images/ozuna.jpeg")
+image10= Image.open("Images/david guetta.jpeg")
                  
 st.markdown("<h1 style='text-align: center; color: black;'>Spotify</h1>", unsafe_allow_html=True)
+
+# Code for Musics part
+
+df_lyrics['full_name_music'] = df_lyrics['track_name']+', '+df_lyrics['artists']
 
 
 selected = option_menu(None, ["Top's", "Musics"], 
@@ -83,15 +99,8 @@ if selected == "Top's":
 
     with col1:
             with st.expander("Top"):
-                    st.write("""
-        This information is related musics in Spotify two months ago""")
-            
-            image = Image.open("Images/The beatles.jpeg")
-            image2 = Image.open("Images/likind park.jpeg")
-            image3=  Image.open("Images/bts.jpeg")
-            image4=  Image.open("Images/prateed kuhad.jpeg")
-            image5=  Image.open("Images/elvis.jpeg")
-
+                st.write("""This information is related musics in Spotify two months ago""")
+                       
             st.image([image, image2, image3, image4,image5], width=200)
 
             Artist = st.selectbox(label = 'Artists', options = ['The Beatles', 'Linkin Park', 'BTS', 'Prateek Kuhad', ' Elvis Presley'])        
@@ -164,14 +173,8 @@ if selected == "Top's":
                 st.pyplot(fig415616)
     with col2:
             with st.expander("Top50"):
-                    st.write("""
-        This information is related to the top 50 songs in Spotify.
-    """)
-            image6 = Image.open(r"Images/bad bunny.jpeg")
-            image7 = Image.open(r"Images/manuel turizo.jpeg")
-            image8=  Image.open(r"Images/the neighbourhood.jpeg")
-            image9=  Image.open(r"Images/ozuna.jpeg")
-            image10= Image.open(r"Images/david guetta.jpeg")
+                st.write("""This information is related to the top 50 songs in Spotify.""")
+            
 
             st.image([image6, image7, image8, image9,image10], width=195)
              
@@ -256,23 +259,17 @@ if selected == "Top's":
                     
 if selected == "Musics":        
     with st.spinner('Wait for it...'):
-        time.sleep(5)
+        time.sleep(1)
         st.success('Done!')
 
         
     # Embed a music from SoundCloud
     band = st.text_input('Type a band and press Enter')
-    st_player(f"https://soundcloud.com/{band}")
+    st_player(f"https://soundcloud.com/{band}")    
     
-
-    
-     
-
-        
-    df_lyrics['full_name_music'] = df_lyrics['track_name']+', '+df_lyrics['artists']
     music = st.selectbox('Choose a music:', df_lyrics['full_name_music'].unique())
     
-    print(music)
+    #print(music)
     L = music.split(', ')
     lyrics = df_lyrics.loc[(df_lyrics['track_name']==L[0])& (df_lyrics['artists']==L[1])].lyrics.iloc[0]
     my_list = re.findall('[A-HJ-Z][^A-HJ-Z]*', lyrics)
