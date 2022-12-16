@@ -1,7 +1,5 @@
 from streamlit_player import st_player
 import os
-import streamlit as st
-import streamlit as st
 from audio_recorder_streamlit import audio_recorder
 import streamlit.components.v1 as components
 import streamlit as st
@@ -13,7 +11,6 @@ from streamlit_option_menu import option_menu
 import time
 from PIL import Image
 import re
-import matplotlib.pyplot as plt
 import altair as alt
 
 st.set_page_config(page_title="Karaoke", page_icon="🎤", layout="wide", menu_items=None)
