@@ -59,9 +59,25 @@ top50_df_music_energy_toparts_final = top50_df_music_energy_toparts.sort_values(
 
 df_lyrics = pd.read_pickle("spotify_with_lyrics.pkl")
 
+# Images 
 
+image = Image.open("Images/The beatles.jpeg")
+image2 = Image.open("Images/likind park.jpeg")
+image3=  Image.open("Images/bts.jpeg")
+image4=  Image.open("Images/prateed kuhad.jpeg")
+image5=  Image.open("Images/elvis.jpeg")
+
+image6 = Image.open("Images/bad bunny.jpeg")
+image7 = Image.open("Images/manuel turizo.jpeg")
+image8=  Image.open("Images/the neighbourhood.jpeg")
+image9=  Image.open("Images/ozuna.jpeg")
+image10= Image.open("Images/david guetta.jpeg")
                  
 st.markdown("<h1 style='text-align: center; color: black;'>Spotify</h1>", unsafe_allow_html=True)
+
+# Code for Musics part
+
+df_lyrics['full_name_music'] = df_lyrics['track_name']+', '+df_lyrics['artists']
 
 
 selected = option_menu(None, ["Top's", "Musics"], 
@@ -83,15 +99,8 @@ if selected == "Top's":
 
     with col1:
             with st.expander("Top"):
-                    st.write("""
-        This information is related musics in Spotify two months ago""")
-            
-            image = Image.open("Images/The beatles.jpeg")
-            image2 = Image.open("Images/likind park.jpeg")
-            image3=  Image.open("Images/bts.jpeg")
-            image4=  Image.open("Images/prateed kuhad.jpeg")
-            image5=  Image.open("Images/elvis.jpeg")
-
+                st.write("""This information is related musics in Spotify two months ago""")
+                       
             st.image([image, image2, image3, image4,image5], width=200)
 
             Artist = st.selectbox(label = 'Artists', options = ['The Beatles', 'Linkin Park', 'BTS', 'Prateek Kuhad', ' Elvis Presley'])        
@@ -99,13 +108,13 @@ if selected == "Top's":
             if Artist == 'The Beatles':
                 st.subheader('*Danceability*')
                 fig3, ax3 = plt.subplots(figsize=(15,6))
-                sns.barplot(data = df_music_dance_D, x="artists", y="danceability", palette = ['tab:grey', 'tab:grey', 'tab:grey', 'tab:green','tab:grey'])
+                sns.barplot(data = df_music_dance_D, x="artists", y="danceability", palette = ['black', 'black', 'black', 'tab:green','black'])
                 ax3.set_xlabel("Artists")
                 ax3.set_ylabel("Danceability")
                 st.pyplot(fig3)
                 st.subheader('*Energy*')
                 fig41, ax41 = plt.subplots(figsize=(15,6))
-                sns.barplot(data = df_music_energy_toparts_last,x = 'artists', y = 'energy', palette = ['tab:grey', 'tab:grey', 'tab:green', 'tab:grey','tab:grey'])
+                sns.barplot(data = df_music_energy_toparts_last,x = 'artists', y = 'energy', palette = ['black', 'black', 'tab:green', 'black','black'])
                 ax41.set_xlabel("Artists")
                 ax41.set_ylabel("Energy")
                 st.pyplot(fig41)
@@ -113,65 +122,59 @@ if selected == "Top's":
             elif Artist == 'Linkin Park':
                 st.subheader('*Danceability*')
                 fig36, ax36 = plt.subplots(figsize=(15,6))
-                sns.barplot(data = df_music_dance_D, x="artists", y="danceability", palette = ['tab:grey', 'tab:grey', 'tab:green', 'tab:grey','tab:grey'])
+                sns.barplot(data = df_music_dance_D, x="artists", y="danceability", palette = ['black', 'black', 'tab:green', 'black','black'])
                 ax36.set_xlabel("Artists")
                 ax36.set_ylabel("Danceability")
                 st.pyplot(fig36)
                 st.subheader('*Energy*')
                 fig415, ax415 = plt.subplots(figsize=(15,6))
-                sns.barplot(data = df_music_energy_toparts_last, x = 'artists', y = 'energy', palette = ['tab:green', 'tab:grey', 'tab:grey', 'tab:grey','tab:grey'])
+                sns.barplot(data = df_music_energy_toparts_last, x = 'artists', y = 'energy', palette = ['tab:green', 'black', 'black', 'black','black'])
                 ax415.set_xlabel("Artists")
                 ax415.set_ylabel("Energy")
                 st.pyplot(fig415)
             elif Artist == 'BTS':
                 st.subheader('*Danceability*')
                 fig39, ax39 = plt.subplots(figsize=(15,6))
-                sns.barplot(data = df_music_dance_D, x="artists", y="danceability", palette = ['tab:green', 'tab:grey', 'tab:grey', 'tab:grey','tab:grey'])
+                sns.barplot(data = df_music_dance_D, x="artists", y="danceability", palette = ['tab:green', 'black', 'black', 'black','black'])
                 ax39.set_xlabel("Artists")
                 ax39.set_ylabel("Danceability")
                 st.pyplot(fig39)
                 st.subheader('*Energy*')
                 fig4156, ax4156 = plt.subplots(figsize=(15,6))
-                sns.barplot(data = df_music_energy_toparts_last, x = 'artists', y = 'energy', palette = ['tab:grey', 'tab:green', 'tab:grey', 'tab:grey','tab:grey'])
+                sns.barplot(data = df_music_energy_toparts_last, x = 'artists', y = 'energy', palette = ['black', 'tab:green', 'black', 'black','black'])
                 ax4156.set_xlabel("Artists")
                 ax4156.set_ylabel("Energy")
                 st.pyplot(fig4156)
             elif Artist == 'Prateek Kuhad':
                 st.subheader('*Danceability*')
                 fig30, ax30 = plt.subplots(figsize=(15,6))
-                sns.barplot(data = df_music_dance_D, x="artists", y="danceability", palette = ['tab:grey', 'tab:green', 'tab:grey', 'tab:grey','tab:grey'])
+                sns.barplot(data = df_music_dance_D, x="artists", y="danceability", palette = ['black', 'tab:green', 'black', 'black','black'])
                 ax30.set_xlabel("Artists")
                 ax30.set_ylabel("Danceability")
                 st.pyplot(fig30)
                 st.subheader('*Energy*')
                 fig41561, ax41561 = plt.subplots(figsize=(15,6))
-                sns.barplot(data = df_music_energy_toparts_last, x = 'artists', y = 'energy', palette = ['tab:grey', 'tab:grey', 'tab:grey', 'tab:grey','tab:green'])
+                sns.barplot(data = df_music_energy_toparts_last, x = 'artists', y = 'energy', palette = ['black', 'black', 'black', 'black','tab:green'])
                 ax41561.set_xlabel("Artists")
                 ax41561.set_ylabel("Energy")
                 st.pyplot(fig41561)
             else: 
                 st.subheader('*Danceability*')
                 fig34, ax34 = plt.subplots(figsize=(15,6))
-                sns.barplot(data = df_music_dance_D, x="artists", y="danceability", palette = ['tab:grey', 'tab:grey', 'tab:grey', 'tab:grey','tab:green'])
+                sns.barplot(data = df_music_dance_D, x="artists", y="danceability", palette = ['black', 'black', 'black', 'black','tab:green'])
                 ax34.set_xlabel("Artists")
                 ax34.set_ylabel("Danceability")
                 st.pyplot(fig34)
                 st.subheader('*Energy*')
                 fig415616, ax415616 = plt.subplots(figsize=(15,6))
-                sns.barplot(data = df_music_energy_toparts_last, x = 'artists', y = 'energy', palette = ['tab:grey', 'tab:grey', 'tab:grey', 'tab:green','tab:grey'])
+                sns.barplot(data = df_music_energy_toparts_last, x = 'artists', y = 'energy', palette = ['black', 'black', 'black', 'tab:green','black'])
                 ax415616.set_xlabel("Artists")
                 ax415616.set_ylabel("Energy")
                 st.pyplot(fig415616)
     with col2:
             with st.expander("Top50"):
-                    st.write("""
-        This information is related to the top 50 songs in Spotify.
-    """)
-            image6 = Image.open(r"Images/bad bunny.jpeg")
-            image7 = Image.open(r"Images/manuel turizo.jpeg")
-            image8=  Image.open(r"Images/the neighbourhood.jpeg")
-            image9=  Image.open(r"Images/ozuna.jpeg")
-            image10= Image.open(r"Images/david guetta.jpeg")
+                st.write("""This information is related to the top 50 songs in Spotify.""")
+            
 
             st.image([image6, image7, image8, image9,image10], width=195)
              
@@ -180,14 +183,14 @@ if selected == "Top's":
             if Artist50 == 'Bad Bunny':
                 st.subheader('*Danceability*')
                 fig31, ax31 = plt.subplots(figsize=(15,6))
-                sns.barplot(data = top50_df_music_dance_final, x="artists", y="danceability", palette = ['tab:grey', 'tab:grey', 'tab:green', 'tab:grey','tab:grey'])
+                sns.barplot(data = top50_df_music_dance_final, x="artists", y="danceability", palette = ['black', 'black', 'tab:green', 'black','black'])
                 ax31.set_xlabel("Artists")
                 ax31.set_ylabel("Danceability")
                 st.pyplot(fig31)
                 
                 st.subheader('*Energy*')
                 fig411, ax411 = plt.subplots(figsize=(15,6))
-                sns.barplot(data =top50_df_music_energy_toparts_final ,x = 'artists', y = 'energy', palette = ['tab:grey', 'tab:grey', 'tab:grey', 'tab:green','tab:grey'])
+                sns.barplot(data =top50_df_music_energy_toparts_final ,x = 'artists', y = 'energy', palette = ['black', 'black', 'black', 'tab:green','black'])
                 ax411.set_xlabel("Artists")
                 ax411.set_ylabel("Energy")
                 st.pyplot(fig411)
@@ -195,14 +198,14 @@ if selected == "Top's":
             elif Artist50 == 'Manuel Turizo':
                 st.subheader('*Danceability*')
                 fig361, ax361 = plt.subplots(figsize=(15,6))
-                sns.barplot(data = top50_df_music_dance_final, x="artists", y="danceability", palette = ['tab:grey', 'tab:green', 'tab:grey', 'tab:grey','tab:grey'])
+                sns.barplot(data = top50_df_music_dance_final, x="artists", y="danceability", palette = ['black', 'tab:green', 'black', 'black','black'])
                 ax361.set_xlabel("Artists")
                 ax361.set_ylabel("Danceability")
                 st.pyplot(fig361)
                 
                 st.subheader('*Energy*')
                 fig4155, ax4155 = plt.subplots(figsize=(15,6))
-                sns.barplot(data = top50_df_music_energy_toparts_final, x = 'artists', y = 'energy', palette = ['tab:grey', 'tab:grey', 'tab:green', 'tab:grey','tab:grey'])
+                sns.barplot(data = top50_df_music_energy_toparts_final, x = 'artists', y = 'energy', palette = ['black', 'black', 'tab:green', 'black','black'])
                 ax4155.set_xlabel("Artists")
                 ax4155.set_ylabel("Energy")
                 st.pyplot(fig4155)
@@ -210,14 +213,14 @@ if selected == "Top's":
             elif Artist50 == 'The Neighbourhood':
                 st.subheader('*Danceability*')
                 fig3978, ax3978 = plt.subplots(figsize=(15,6))
-                sns.barplot(data = top50_df_music_dance_final, x="artists", y="danceability", palette = ['tab:grey', 'tab:grey', 'tab:grey', 'tab:green','tab:grey'])
+                sns.barplot(data = top50_df_music_dance_final, x="artists", y="danceability", palette = ['black', 'black', 'black', 'tab:green','black'])
                 ax3978.set_xlabel("Artists")
                 ax3978.set_ylabel("Danceability")
                 st.pyplot(fig3978)
                 
                 st.subheader('*Energy*')
                 fig415633, ax415633 = plt.subplots(figsize=(15,6))
-                sns.barplot(data = top50_df_music_energy_toparts_final, x = 'artists', y = 'energy', palette = ['tab:grey', 'tab:green', 'tab:grey', 'tab:grey','tab:grey'])
+                sns.barplot(data = top50_df_music_energy_toparts_final, x = 'artists', y = 'energy', palette = ['black', 'tab:green', 'black', 'black','black'])
                 ax415633.set_xlabel("Artists")
                 ax415633.set_ylabel("Energy")
                 st.pyplot(fig415633)
@@ -225,28 +228,28 @@ if selected == "Top's":
             elif Artist50 == 'Ozuna':
                 st.subheader('*Danceability*')
                 fig3067, ax3067 = plt.subplots(figsize=(15,6))
-                sns.barplot(data = top50_df_music_dance_final, x="artists", y="danceability", palette = ['tab:green', 'tab:grey', 'tab:grey', 'tab:grey','tab:grey'])
+                sns.barplot(data = top50_df_music_dance_final, x="artists", y="danceability", palette = ['tab:green', 'black', 'black', 'black','black'])
                 ax3067.set_xlabel("Artists")
                 ax3067.set_ylabel("Danceability")
                 st.pyplot(fig3067)
                 
                 st.subheader('*Energy*')
                 fig4159, ax4159 = plt.subplots(figsize=(15,6))
-                sns.barplot(data = top50_df_music_energy_toparts_final, x = 'artists', y = 'energy', palette = ['tab:grey', 'tab:grey', 'tab:grey', 'tab:grey','tab:green'])
+                sns.barplot(data = top50_df_music_energy_toparts_final, x = 'artists', y = 'energy', palette = ['black', 'black', 'black', 'black','tab:green'])
                 ax4159.set_xlabel("Artists")
                 ax4159.set_ylabel("Energy")
                 st.pyplot(fig4159)
             else: 
                 st.subheader('*Danceability*')
                 fig347, ax347 = plt.subplots(figsize=(15,6))
-                sns.barplot(data = top50_df_music_dance_final, x="artists", y="danceability", palette = ['tab:grey', 'tab:grey', 'tab:grey', 'tab:grey','tab:green'])
+                sns.barplot(data = top50_df_music_dance_final, x="artists", y="danceability", palette = ['black', 'black', 'black', 'black','tab:green'])
                 ax347.set_xlabel("Artists")
                 ax347.set_ylabel("Danceability")
                 st.pyplot(fig347)
                 
                 st.subheader('*Energy*')
                 fig4150, ax4150 = plt.subplots(figsize=(15,6))
-                sns.barplot(data = top50_df_music_energy_toparts_final, x = 'artists', y = 'energy', palette = ['tab:green', 'tab:grey', 'tab:grey', 'tab:grey','tab:grey'])
+                sns.barplot(data = top50_df_music_energy_toparts_final, x = 'artists', y = 'energy', palette = ['tab:green', 'black', 'black', 'black', 'black'])
                 ax4150.set_xlabel("Artists")
                 ax4150.set_ylabel("Energy")
                 st.pyplot(fig4150)
@@ -256,23 +259,17 @@ if selected == "Top's":
                     
 if selected == "Musics":        
     with st.spinner('Wait for it...'):
-        time.sleep(5)
+        time.sleep(1)
         st.success('Done!')
 
         
     # Embed a music from SoundCloud
     band = st.text_input('Type a band and press Enter')
-    st_player(f"https://soundcloud.com/{band}")
+    st_player(f"https://soundcloud.com/{band}")    
     
-
-    
-     
-
-        
-    df_lyrics['full_name_music'] = df_lyrics['track_name']+', '+df_lyrics['artists']
     music = st.selectbox('Choose a music:', df_lyrics['full_name_music'].unique())
     
-    print(music)
+    #print(music)
     L = music.split(', ')
     lyrics = df_lyrics.loc[(df_lyrics['track_name']==L[0])& (df_lyrics['artists']==L[1])].lyrics.iloc[0]
     my_list = re.findall('[A-HJ-Z][^A-HJ-Z]*', lyrics)
