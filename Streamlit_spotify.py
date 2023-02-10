@@ -54,29 +54,25 @@ top50_df_music_energy_toparts_final = top50_df_music_energy_toparts.sort_values(
 
 # Lyrics
 
-# df_lyrics = pd.read_pickle("spotify_with_lyrics.pkl")
-
-# df_1 = df_lyrics.iloc[:11400,:]
-# df_2 = df_lyrics.iloc[11400:22800,:]
-# df_3 = df_lyrics.iloc[22800:34200,:]
-# df_4 = df_lyrics.iloc[34200:45600,:]
-# df_5 = df_lyrics.iloc[45600:57000,:]
-# df_6 = df_lyrics.iloc[57000:68400,:]
-# df_7 = df_lyrics.iloc[68400:79800,:]
-# df_8 = df_lyrics.iloc[79800:91200,:]
-# df_9 = df_lyrics.iloc[91200:102600,:]
-# df_10 = df_lyrics.iloc[102600:,:]
-
-# df_1.to_csv('Google_Playstore1.csv', index = False)
-# df_2.to_csv('Google_Playstore2.csv', index = False)
-# df_3.to_csv('Google_Playstore3.csv', index = False)
-# df_4.to_csv('Google_Playstore4.csv', index = False)
-# df_5.to_csv('Google_Playstore5.csv', index = False)
-# df_6.to_csv('Google_Playstore6.csv', index = False)
-# df_7.to_csv('Google_Playstore7.csv', index = False)
-# df_8.to_csv('Google_Playstore8.csv', index = False)
-# df_9.to_csv('Google_Playstore9.csv', index = False)
-# df_10.to_csv('Google_Playstore10.csv', index = False)
+df_1 = pd.read_csv('https://raw.githubusercontent.com/Sebastiao199/Project4WebScrapStats/main/Google_Playstore1.csv')
+df_2 = pd.read_csv('https://raw.githubusercontent.com/Sebastiao199/Project4WebScrapStats/main/Google_Playstore2.csv')
+df_3 = pd.read_csv('https://raw.githubusercontent.com/Sebastiao199/Project4WebScrapStats/main/Google_Playstore3.csv')
+df_4 = pd.read_csv('https://raw.githubusercontent.com/Sebastiao199/Project4WebScrapStats/main/Google_Playstore4.csv')
+df_5 = pd.read_csv('hhttps://raw.githubusercontent.com/Sebastiao199/Project4WebScrapStats/main/Google_Playstore5.csv')
+df_6 = pd.read_csv('https://raw.githubusercontent.com/Sebastiao199/Project4WebScrapStats/main/Google_Playstore6.csv')
+df_7 = pd.read_csv('https://raw.githubusercontent.com/Sebastiao199/Project4WebScrapStats/main/Google_Playstore7.csv')
+df_8 = pd.read_csv('https://raw.githubusercontent.com/Sebastiao199/Project4WebScrapStats/main/Google_Playstore8.csv')
+df_9 = pd.read_csv('https://raw.githubusercontent.com/Sebastiao199/Project4WebScrapStats/main/Google_Playstore9.csv')
+df_10 = pd.read_csv('https://raw.githubusercontent.com/Sebastiao199/Project4WebScrapStats/main/Google_Playstore10.csv')
+df_12 = pd.concat([df_1, df_2], axis=0)
+df_123 = pd.concat([df_12, df_3], axis=0)
+df_1234 = pd.concat([df_123, df_4], axis=0)
+df_12345 = pd.concat([df_1234, df_5], axis=0)
+df_123456 = pd.concat([df_12345, df_6], axis=0)
+df_1234567 = pd.concat([df_123456, df_7], axis=0)
+df_12345678 = pd.concat([df_1234567, df_8], axis=0)
+df_123456789 = pd.concat([df_12345678, df_9], axis=0)
+df_lyrics = pd.concat([df_123456789, df_10], axis=0)
 
 
 # Images 
